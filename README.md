@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulik-source&" alt="moulik-source" /></p>
 
-# Blog posts
+# Youtube videos
 <!-- BLOG-POST-LIST:START -->
 - [parsero full tutorial from basics | #parsero](https://www.youtube.com/watch?v=ZQcdi6MS0I0)
 - [hping3 full tutorial from noob to pro | #hping3 #hping3fulltutorial](https://www.youtube.com/watch?v=Mqhv6uhC794)
