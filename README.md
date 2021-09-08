@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moulik</h1>
 <h3 align="center">I am a cybersecurity student and just hack random people's accounts!!! Just kidding 😄</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moulik-source&label=Profile%20views&color=0e75b6&style=flat" alt="moulik-source" /> </p> <img alt="Website" src="https://img.shields.io/website?url=http://techyrick.com">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moulik-source&label=Profile%20views&color=0e75b6&style=flat" alt="moulik-source" /> </p> <img alt="Website" src="https://img.shields.io/website?url=http://techyrick.com/blog">
 
 - 🔭 I’m currently working on **DDoS**
 
