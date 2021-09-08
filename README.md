@@ -20,3 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moulik-source&show_icons=true&locale=en" alt="moulik-source" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulik-source&" alt="moulik-source" /></p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
