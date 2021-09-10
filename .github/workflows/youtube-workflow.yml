@@ -1,21 +1,18 @@
-name: Latest YouTube Videos
+name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    # Runs every 5 minutes
+    - cron: '*/1 * * * *'
   workflow_dispatch:
-
+  
 jobs:
-  update-readme-with-youtube:
-    name: Update this repo's README with latest videos from YouTube
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE"
+          comment_tag_name: "youtube"
+          commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVCzINYEgqrzToozc4dp0Bw"
-          custom_tags: "videoId/yt:videoId/"
-          max_post_count: 6
-          template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
-          committer_email: "jonah@freshidea.com"
