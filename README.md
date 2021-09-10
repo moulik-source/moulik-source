@@ -45,11 +45,15 @@
 
 # Youtube videos
 
-<!-- YOUTUBE:START -->
-[![information gathering using webcheck | #webcheck](https://freshidea.com/jonah/app/youtube-card/?id=Eq4GdBKIe30)](https://www.youtube.com/watch?v=Eq4GdBKIe30 "information gathering using webcheck | #webcheck")
-[![VMware workstation player and kali Linux download full tutorial | #2021 #kalidoewnalod #fulltutorial](https://freshidea.com/jonah/app/youtube-card/?id=IyQN_PzwhgI)](https://www.youtube.com/watch?v=IyQN_PzwhgI "VMware workstation player and kali Linux download full tutorial | #2021 #kalidoewnalod #fulltutorial")
-[![parsero full tutorial from basics | #parsero](https://freshidea.com/jonah/app/youtube-card/?id=ZQcdi6MS0I0)](https://www.youtube.com/watch?v=ZQcdi6MS0I0 "parsero full tutorial from basics | #parsero")
-[![hping3 full tutorial from noob to pro | #hping3 #hping3fulltutorial](https://freshidea.com/jonah/app/youtube-card/?id=Mqhv6uhC794)](https://www.youtube.com/watch?v=Mqhv6uhC794 "hping3 full tutorial from noob to pro | #hping3 #hping3fulltutorial")
-[![Gathering file type information using Goofile | #goofile](https://freshidea.com/jonah/app/youtube-card/?id=t_Nn3oh3NaM)](https://www.youtube.com/watch?v=t_Nn3oh3NaM "Gathering file type information using Goofile | #goofile")
-[![Whatweb Information gathering | Full tutorial | #whatweb](https://freshidea.com/jonah/app/youtube-card/?id=0Y6nSCj394Q)](https://www.youtube.com/watch?v=0Y6nSCj394Q "Whatweb Information gathering | Full tutorial | #whatweb")<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Eq4GdBKIe30"><img width="140px" src="https://i.ytimg.com/vi/Eq4GdBKIe30/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Eq4GdBKIe30">information gathering using webcheck | #webcheck</a><br/>Sep 9, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IyQN_PzwhgI"><img width="140px" src="https://i.ytimg.com/vi/IyQN_PzwhgI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IyQN_PzwhgI">VMware workstation player and kali Linux download full tutorial | #2021 #kalidoewnalod #fulltutorial</a><br/>Sep 8, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZQcdi6MS0I0"><img width="140px" src="https://i.ytimg.com/vi/ZQcdi6MS0I0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZQcdi6MS0I0">parsero full tutorial from basics | #parsero</a><br/>Sep 7, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mqhv6uhC794"><img width="140px" src="https://i.ytimg.com/vi/Mqhv6uhC794/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Mqhv6uhC794">hping3 full tutorial from noob to pro | #hping3 #hping3fulltutorial</a><br/>Sep 4, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t_Nn3oh3NaM"><img width="140px" src="https://i.ytimg.com/vi/t_Nn3oh3NaM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t_Nn3oh3NaM">Gathering file type information using Goofile | #goofile</a><br/>Sep 1, 2021</td></tr></table>
+<!-- YOUTUBE:END -->
 
