@@ -52,3 +52,4 @@
 [![hping3 full tutorial from noob to pro | #hping3 #hping3fulltutorial](https://freshidea.com/jonah/app/youtube-card/?id=Mqhv6uhC794)](https://www.youtube.com/watch?v=Mqhv6uhC794 "hping3 full tutorial from noob to pro | #hping3 #hping3fulltutorial")
 [![Gathering file type information using Goofile | #goofile](https://freshidea.com/jonah/app/youtube-card/?id=t_Nn3oh3NaM)](https://www.youtube.com/watch?v=t_Nn3oh3NaM "Gathering file type information using Goofile | #goofile")
 [![Whatweb Information gathering | Full tutorial | #whatweb](https://freshidea.com/jonah/app/youtube-card/?id=0Y6nSCj394Q)](https://www.youtube.com/watch?v=0Y6nSCj394Q "Whatweb Information gathering | Full tutorial | #whatweb")<!-- YOUTUBE:END -->
+
