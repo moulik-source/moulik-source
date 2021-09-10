@@ -30,6 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Kali: Installing Custom Kali Linux in VMware workstation player – Full guide](https://www.techyrick.com/kali-installing-custom-kali-linux-in-vmware-workstation-player-full-guide/)
+- [Parsero: What is? Full tutorial from basics](https://www.techyrick.com/parsero/)
+- [Hping3: Full tutorial for dummies to pro](https://www.techyrick.com/hping3-full-tutorial-for-dummies-to-pro/)
+- [Goofile: What is? Tutorial from noob to pro](https://www.techyrick.com/goofile/)
+- [Whatweb: What is? Full tutorial from noob to pro 💯](https://www.techyrick.com/whatweb/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
