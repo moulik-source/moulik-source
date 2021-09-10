@@ -26,7 +26,7 @@
 
 ![moulik-source GitHub stats](https://github-readme-stats.vercel.app/api?username=moulik-source&show_icons=true&theme=vision-friendly-dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulik-source&" alt="moulik-source" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulik-source&theme=vision-friendly-dark" alt="moulik-source" /></p>
 
 # Youtube videos
 <!-- BLOG-POST-LIST:START -->
