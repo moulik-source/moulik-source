@@ -45,6 +45,8 @@
 
 # Youtube videos
 
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
+
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Eq4GdBKIe30"><img width="140px" src="https://i.ytimg.com/vi/Eq4GdBKIe30/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Eq4GdBKIe30">information gathering using webcheck | #webcheck</a><br/>Sep 9, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IyQN_PzwhgI"><img width="140px" src="https://i.ytimg.com/vi/IyQN_PzwhgI/mqdefault.jpg"></a></td>
