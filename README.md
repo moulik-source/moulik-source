@@ -28,13 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulik-source&theme=vision-friendly-dark" alt="moulik-source" /></p>
 
-# Youtube videos
+# Blog post
 <!-- BLOG-POST-LIST:START -->
-- [information gathering using webcheck | #webcheck](https://www.youtube.com/watch?v=Eq4GdBKIe30)
-- [VMware workstation player and kali Linux download full tutorial | #2021 #kalidoewnalod #fulltutorial](https://www.youtube.com/watch?v=IyQN_PzwhgI)
-- [parsero full tutorial from basics | #parsero](https://www.youtube.com/watch?v=ZQcdi6MS0I0)
-- [hping3 full tutorial from noob to pro | #hping3 #hping3fulltutorial](https://www.youtube.com/watch?v=Mqhv6uhC794)
-- [Gathering file type information using Goofile | #goofile](https://www.youtube.com/watch?v=t_Nn3oh3NaM)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
@@ -43,6 +38,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=port-scan&theme=outrun)](https://github.com/moulik-source/port-scan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=webcheck&theme=outrun)](https://github.com/moulik-source/webcheck)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
