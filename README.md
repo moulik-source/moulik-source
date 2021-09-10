@@ -24,7 +24,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moulik-source&show_icons=true&locale=en" alt="moulik-source" /></p>
+![moulik-source GitHub stats](https://github-readme-stats.vercel.app/api?username=moulik-source&show_icons=true&theme=vision-friendly-dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulik-source&" alt="moulik-source" /></p>
 
@@ -37,3 +37,8 @@
 - [Gathering file type information using Goofile | #goofile](https://www.youtube.com/watch?v=t_Nn3oh3NaM)
 <!-- BLOG-POST-LIST:END -->
 
+# Recent repository 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=ddos&theme=outrun)](https://github.com/moulik-source/ddos) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=port-scan&theme=outrun)](https://github.com/moulik-source/port-scan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=webcheck&theme=outrun)](https://github.com/moulik-source/webcheck)
