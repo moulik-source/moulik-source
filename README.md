@@ -42,6 +42,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=ddos&theme=outrun)](https://github.com/moulik-source/ddos) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=port-scan&theme=outrun)](https://github.com/moulik-source/port-scan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=webcheck&theme=outrun)](https://github.com/moulik-source/webcheck)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=social&theme=outrun)](https://github.com/moulik-source/social)
 
 # Youtube videos
 
