@@ -1,4 +1,4 @@
-name: YouTube Videos
+name: Latest YouTube Videos
 on:
   schedule:
     # Runs every hour, on the hour
@@ -16,6 +16,7 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVCzINYEgqrzToozc4dp0Bw"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          max_post_count: 6
-          template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
-          committer_email: "jonah@freshidea.com"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          committer_email: "alwinjohn231@gmail.com"
+
