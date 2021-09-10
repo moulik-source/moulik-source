@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: YouTube Videos
 on:
   schedule:
     # Runs every hour, on the hour
@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE"
+          comment_tag_name: "Youtube videos"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVCzINYEgqrzToozc4dp0Bw"
           custom_tags: "videoId/yt:videoId/"
           max_post_count: 6
