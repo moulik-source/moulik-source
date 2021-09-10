@@ -43,15 +43,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=port-scan&theme=outrun)](https://github.com/moulik-source/port-scan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moulik-source&repo=webcheck&theme=outrun)](https://github.com/moulik-source/webcheck)
 
-# Youtube
-
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
-
-<!-- YOUTUBE:START -->
-[![information gathering using webcheck | #webcheck](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://www.youtube.com/watch?v=Eq4GdBKIe30 "information gathering using webcheck | #webcheck")
-[![Migrating Discord Bots from Discord.py to Nextcord](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://www.youtube.com/watch?v=lzyd5wHzDmU "Migrating Discord Bots from Discord.py to Nextcord")
-[![Edit and RUN your code from GitHub online in seconds](https://freshidea.com/jonah/app/youtube-card/?id=0YLTILjOxIE)](https://www.youtube.com/watch?v=0YLTILjOxIE "Edit and RUN your code from GitHub online in seconds")
-[![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")
-[![Creating Cogs and Commands - Python Discord Bot [Part 3]](https://freshidea.com/jonah/app/youtube-card/?id=rgS_OOA12NA)](https://www.youtube.com/watch?v=rgS_OOA12NA "Creating Cogs and Commands - Python Discord Bot [Part 3]")
-[![How to Host a Discord Bot 24/7 for FREE [Part 2]](https://freshidea.com/jonah/app/youtube-card/?id=EreE-0hQibM)](https://www.youtube.com/watch?v=EreE-0hQibM "How to Host a Discord Bot 24/7 for FREE [Part 2]")<!-- YOUTUBE:END -->
