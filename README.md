@@ -48,15 +48,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aouisqXGvFY"><img width="140px" src="https://i.ytimg.com/vi/aouisqXGvFY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aouisqXGvFY">Nmap tutorial 1 for beginners from scratch | Nmap #tutorial1</a><br/>Sep 21, 2021</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JuigCPvErFw"><img width="140px" src="https://i.ytimg.com/vi/JuigCPvErFw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JuigCPvErFw">Nmap tutorial 2 for begineers TCP scan from scratch | #nmap #tutorial2</a><br/>Sep 22, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aouisqXGvFY"><img width="140px" src="https://i.ytimg.com/vi/aouisqXGvFY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aouisqXGvFY">Nmap tutorial 1 for beginners from scratch | #Nmap #tutorial1</a><br/>Sep 21, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EAThuWa8ZlU"><img width="140px" src="https://i.ytimg.com/vi/EAThuWa8ZlU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EAThuWa8ZlU">Full tutorial on masscan from scratch | #masscan #fulltutorial</a><br/>Sep 20, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=usjehTGBISk"><img width="140px" src="https://i.ytimg.com/vi/usjehTGBISk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=usjehTGBISk">profile information gathering using profil3r tools | #profil3r</a><br/>Sep 14, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AWwL8v9LMRI"><img width="140px" src="https://i.ytimg.com/vi/AWwL8v9LMRI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AWwL8v9LMRI">recon ng full tutorial from noob to pro | #recong #fulltutorial</a><br/>Sep 13, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Eq4GdBKIe30"><img width="140px" src="https://i.ytimg.com/vi/Eq4GdBKIe30/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Eq4GdBKIe30">information gathering using webcheck | #webcheck</a><br/>Sep 9, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
