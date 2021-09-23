@@ -48,15 +48,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GavAyMZ31m0"><img width="140px" src="https://i.ytimg.com/vi/GavAyMZ31m0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GavAyMZ31m0">NMap tutorial 3 for begineers OS and service information |#nmap #tutorial3</a><br/>Sep 23, 2021</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0OCMcYiRKjs"><img width="140px" src="https://i.ytimg.com/vi/0OCMcYiRKjs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0OCMcYiRKjs">Nmap tutorial 4 UDP scan for beginners | #nmap #tutorial4</a><br/>Sep 23, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GavAyMZ31m0"><img width="140px" src="https://i.ytimg.com/vi/GavAyMZ31m0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GavAyMZ31m0">NMap tutorial 3 for beginners OS and service information |#nmap #tutorial3</a><br/>Sep 23, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JuigCPvErFw"><img width="140px" src="https://i.ytimg.com/vi/JuigCPvErFw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JuigCPvErFw">Nmap tutorial 2 for begineers TCP scan from scratch | #nmap #tutorial2</a><br/>Sep 22, 2021</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=JuigCPvErFw">Nmap tutorial 2 for beginners TCP scan from scratch | #nmap #tutorial2</a><br/>Sep 22, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aouisqXGvFY"><img width="140px" src="https://i.ytimg.com/vi/aouisqXGvFY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aouisqXGvFY">Nmap tutorial 1 for beginners from scratch | #Nmap #tutorial1</a><br/>Sep 21, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EAThuWa8ZlU"><img width="140px" src="https://i.ytimg.com/vi/EAThuWa8ZlU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EAThuWa8ZlU">Full tutorial on masscan from scratch | #masscan #fulltutorial</a><br/>Sep 20, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=usjehTGBISk"><img width="140px" src="https://i.ytimg.com/vi/usjehTGBISk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=usjehTGBISk">profile information gathering using profil3r tools | #profil3r</a><br/>Sep 14, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
