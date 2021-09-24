@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Legion: The best all in one network mapping tool 💖](https://www.techyrick.com/legion-kali-linux/)
 - [Zenmap: Full tutorial from basics 💯 updated 2021](https://www.techyrick.com/zenmap/)
 - [NMap command: The 7 | I use in everyday life 👇🌈](https://www.techyrick.com/the-7-nmap-command-i-use-in-everyday-life-%f0%9f%91%87%f0%9f%8c%88/)
 - [NMap: Full tutorial from scratch 💯 , Updated 2021](https://www.techyrick.com/nmap-commands/)
 - [Masscan: Full tutorial from noob to pro 💯✔](https://www.techyrick.com/masscan-full-tutorial/)
-- [Recon-ng: A full tutorial from noob to pro 💯](https://www.techyrick.com/recon-ng/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
