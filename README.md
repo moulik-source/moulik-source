@@ -48,7 +48,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QREHCopdzNA"><img width="140px" src="https://i.ytimg.com/vi/QREHCopdzNA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9h4OXrwM8Ec"><img width="140px" src="https://i.ytimg.com/vi/9h4OXrwM8Ec/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9h4OXrwM8Ec">Legion full tutorial from noob to pro | #legion #legionfulltutorial</a><br/>Sep 27, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QREHCopdzNA"><img width="140px" src="https://i.ytimg.com/vi/QREHCopdzNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QREHCopdzNA">zenmap full tutorial from scratch | #zenmap #fulltutorial</a><br/>Sep 27, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VYsHNdOfSsk"><img width="140px" src="https://i.ytimg.com/vi/VYsHNdOfSsk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VYsHNdOfSsk">Nmap tutorial 5 for begineers saving results in different formats | #nmap #tutorial5</a><br/>Sep 27, 2021</td></tr></table>
@@ -56,7 +58,5 @@
 <td><a href="https://www.youtube.com/watch?v=0OCMcYiRKjs">Nmap tutorial 4 UDP scan for beginners | #nmap #tutorial4</a><br/>Sep 23, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GavAyMZ31m0"><img width="140px" src="https://i.ytimg.com/vi/GavAyMZ31m0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GavAyMZ31m0">NMap tutorial 3 for beginners OS and service information |#nmap #tutorial3</a><br/>Sep 23, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JuigCPvErFw"><img width="140px" src="https://i.ytimg.com/vi/JuigCPvErFw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JuigCPvErFw">Nmap tutorial 2 for beginners TCP scan from scratch | #nmap #tutorial2</a><br/>Sep 22, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
