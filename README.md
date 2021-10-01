@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Lynis: Full vulnerability analysis for beginners updated 2021](https://www.techyrick.com/lynis/)
 - [Nessus: Full tutorial fro begineer’s updated 2021 💯](https://www.techyrick.com/nessus-full-tutorial-fro-begineers-updated-2021-%f0%9f%92%af/)
 - [Searchsploit: Full tutorial for noobies, become a pro 💯](https://www.techyrick.com/searchsploit/)
 - [Nikto: Full tutorial from scratch to pro updated 2021 💯](https://www.techyrick.com/nikto-2/)
 - [angry IP: The fastest network mapping tool alive](https://www.techyrick.com/angry-ip-scan/)
-- [Legion: The best all in one network mapping tool 💖](https://www.techyrick.com/legion-kali-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
