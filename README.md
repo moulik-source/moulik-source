@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [Print(“Hello world”) in python full tutorial – Python Bootcamp 2021](https://www.techyrick.com/print-hello-world-in-python-full-tutorial-python-bootcamp/)
-- [Lynis: Full vulnerability analysis for beginners updated 2021](https://www.techyrick.com/lynis/)
-- [Nessus: Full tutorial fro begineer’s updated 2021 💯](https://www.techyrick.com/nessus-full-tutorial-fro-begineers-updated-2021-%f0%9f%92%af/)
-- [Searchsploit: Full tutorial for noobies, become a pro 💯](https://www.techyrick.com/searchsploit/)
-- [Nikto: Full tutorial from scratch to pro updated 2021 💯](https://www.techyrick.com/nikto-2/)
+- [Print(“Hello world”) in python full tutorial – Python Bootcamp 2021](https://techyrick.com/print-hello-world-in-python-full-tutorial-python-bootcamp/)
+- [Lynis: Full vulnerability analysis for beginners updated 2021](https://techyrick.com/lynis/)
+- [Nessus: Full tutorial fro begineer’s updated 2021 💯](https://techyrick.com/nessus-full-tutorial-fro-begineers-updated-2021-%f0%9f%92%af/)
+- [Searchsploit: Full tutorial for noobies, become a pro 💯](https://techyrick.com/searchsploit/)
+- [Nikto: Full tutorial from scratch to pro updated 2021 💯](https://techyrick.com/nikto-2/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
