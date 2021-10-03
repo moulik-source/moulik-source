@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [What is debugging in python, Let’s do one | Python Bootcamp](https://techyrick.com/what-is-debugging-in-python/)
 - [String manipulation in python is very easy…try this](https://techyrick.com/python-string-manipulation/)
 - [unix-privesc-check: Full vulnerability analysis tutorial for beginners](https://techyrick.com/unix-privesc-check/)
 - [Print(“Hello world”) in python full tutorial – Python Bootcamp 2021](https://techyrick.com/print-hello-world-in-python-full-tutorial-python-bootcamp/)
 - [Lynis: Full vulnerability analysis for beginners updated 2021](https://techyrick.com/lynis/)
-- [Nessus: Full tutorial fro begineer’s updated 2021 💯](https://techyrick.com/nessus-full-tutorial-fro-begineers-updated-2021-%f0%9f%92%af/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
