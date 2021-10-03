@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Input function in python full tutorial for beginners | Python Bootcamp](https://techyrick.com/input-function-in-python/)
 - [What is debugging in python, Let’s do one | Python Bootcamp](https://techyrick.com/what-is-debugging-in-python/)
 - [String manipulation in python is very easy…try this](https://techyrick.com/python-string-manipulation/)
 - [unix-privesc-check: Full vulnerability analysis tutorial for beginners](https://techyrick.com/unix-privesc-check/)
 - [Print(“Hello world”) in python full tutorial – Python Bootcamp 2021](https://techyrick.com/print-hello-world-in-python-full-tutorial-python-bootcamp/)
-- [Lynis: Full vulnerability analysis for beginners updated 2021](https://techyrick.com/lynis/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
