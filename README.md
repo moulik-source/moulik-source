@@ -48,7 +48,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nqYKYZQy_Vk"><img width="140px" src="https://i.ytimg.com/vi/nqYKYZQy_Vk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MKxvhevSLIc"><img width="140px" src="https://i.ytimg.com/vi/MKxvhevSLIc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MKxvhevSLIc">String manipulation in python | #strings #python</a><br/>Oct 6, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=nqYKYZQy_Vk"><img width="140px" src="https://i.ytimg.com/vi/nqYKYZQy_Vk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nqYKYZQy_Vk">Hello world in python full tutorial for beginners | #Python #PythonHelloworld #Fulltutorial</a><br/>Oct 6, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bAUZ1jcLhak"><img width="140px" src="https://i.ytimg.com/vi/bAUZ1jcLhak/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bAUZ1jcLhak">unix privesc check full tutorial for beginners | #unix-privesc-check #fulltutorial</a><br/>Oct 6, 2021</td></tr></table>
@@ -56,7 +58,5 @@
 <td><a href="https://www.youtube.com/watch?v=ud2aJzA7YJE">Lynis full tutorial for beginners from basics | #lynis #lynisfulltutorial</a><br/>Oct 4, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FPSWTc7rDg4"><img width="140px" src="https://i.ytimg.com/vi/FPSWTc7rDg4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FPSWTc7rDg4">nessus full tutorial for beginners | #nessus #nessusfulltutorial</a><br/>Oct 4, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NHGnt9BUYUw"><img width="140px" src="https://i.ytimg.com/vi/NHGnt9BUYUw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NHGnt9BUYUw">searchsploit full tutorial for beginners | #searchsploit #fulltutorial</a><br/>Oct 4, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
