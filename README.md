@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Python primitive data type full tutorial | Python Bootcamp](https://techyrick.com/python-primitive-data-type-full-tutorial-python-bootcamp/)
 - [Swapping two variables in python | Python Bootcamp](https://techyrick.com/swapping-two-variables-in-python/)
 - [Variables in python | Full tutorial for beginners | Python Bootcamp](https://techyrick.com/variables-in-python-full-tutorial/)
 - [Len function in python | Full tutorial for noobs | Python Bootcamp](https://techyrick.com/len-function-in-python/)
 - [Input function in python full tutorial for beginners | Python Bootcamp](https://techyrick.com/input-function-in-python/)
-- [What is debugging in python, Let’s do one | Python Bootcamp](https://techyrick.com/what-is-debugging-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
