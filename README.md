@@ -28,6 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moulik-source&theme=vision-friendly-dark" alt="moulik-source" /></p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=moulik-source&bg_color=000000&color=00ff33&line=1e00ff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # Blog post
 <!-- BLOG-POST-LIST:START -->
 - [Python primitive data type full tutorial | Python Bootcamp](https://techyrick.com/python-primitive-data-type-full-tutorial-python-bootcamp/)
