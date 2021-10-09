@@ -50,15 +50,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-bbtqpGj7gA"><img width="140px" src="https://i.ytimg.com/vi/-bbtqpGj7gA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2IhJA7SMa3c"><img width="140px" src="https://i.ytimg.com/vi/2IhJA7SMa3c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2IhJA7SMa3c">Variables in python explained for beginners Python Bootcamp | #pythonvariables</a><br/>Oct 9, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AAorUgzL2c0"><img width="140px" src="https://i.ytimg.com/vi/AAorUgzL2c0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AAorUgzL2c0">Len function in python explained Python bootcamp | #Pythonlenfunction</a><br/>Oct 9, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-bbtqpGj7gA"><img width="140px" src="https://i.ytimg.com/vi/-bbtqpGj7gA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-bbtqpGj7gA">Input function in python full tutorial for beginners | #inputfunction #python</a><br/>Oct 6, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AxSIo7E33QI"><img width="140px" src="https://i.ytimg.com/vi/AxSIo7E33QI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AxSIo7E33QI">Debugging in python full tutorial for beginners | #debugginginpython #python</a><br/>Oct 6, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MKxvhevSLIc"><img width="140px" src="https://i.ytimg.com/vi/MKxvhevSLIc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MKxvhevSLIc">String manipulation in python | #strings #python</a><br/>Oct 6, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nqYKYZQy_Vk"><img width="140px" src="https://i.ytimg.com/vi/nqYKYZQy_Vk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nqYKYZQy_Vk">Hello world in python full tutorial for beginners | #Python #PythonHelloworld #Fulltutorial</a><br/>Oct 6, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bAUZ1jcLhak"><img width="140px" src="https://i.ytimg.com/vi/bAUZ1jcLhak/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bAUZ1jcLhak">unix privesc check full tutorial for beginners | #unix-privesc-check #fulltutorial</a><br/>Oct 6, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
