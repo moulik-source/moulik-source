@@ -50,15 +50,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2IhJA7SMa3c"><img width="140px" src="https://i.ytimg.com/vi/2IhJA7SMa3c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GfwpGtxe4s8"><img width="140px" src="https://i.ytimg.com/vi/GfwpGtxe4s8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GfwpGtxe4s8">Data type in python fully explained python bootcamp | #pythondatatypes</a><br/>Oct 9, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7KI8x6NmMII"><img width="140px" src="https://i.ytimg.com/vi/7KI8x6NmMII/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7KI8x6NmMII">Swapping two variables in python for beginners | #pythonsappingvariables</a><br/>Oct 9, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2IhJA7SMa3c"><img width="140px" src="https://i.ytimg.com/vi/2IhJA7SMa3c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2IhJA7SMa3c">Variables in python explained for beginners Python Bootcamp | #pythonvariables</a><br/>Oct 9, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AAorUgzL2c0"><img width="140px" src="https://i.ytimg.com/vi/AAorUgzL2c0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AAorUgzL2c0">Len function in python explained Python bootcamp | #Pythonlenfunction</a><br/>Oct 9, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-bbtqpGj7gA"><img width="140px" src="https://i.ytimg.com/vi/-bbtqpGj7gA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-bbtqpGj7gA">Input function in python full tutorial for beginners | #inputfunction #python</a><br/>Oct 6, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AxSIo7E33QI"><img width="140px" src="https://i.ytimg.com/vi/AxSIo7E33QI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AxSIo7E33QI">Debugging in python full tutorial for beginners | #debugginginpython #python</a><br/>Oct 6, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MKxvhevSLIc"><img width="140px" src="https://i.ytimg.com/vi/MKxvhevSLIc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MKxvhevSLIc">String manipulation in python | #strings #python</a><br/>Oct 6, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
