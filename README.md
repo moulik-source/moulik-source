@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Number manipulation in python full tutorial | Python Bootcamp](https://techyrick.com/number-manipulation-in-python/)
 - [BMI calculator in python full tutorial | Python Bootcamp](https://techyrick.com/bmi-calculator-in-python/)
 - [Operations in python full tutorial for beginners | Python Bootcamp](https://techyrick.com/operations-in-python-full-tutorial/)
 - [Type function in python full tutorial | Python Bootcamp](https://techyrick.com/type-function-in-python/)
 - [Python primitive data type full tutorial | Python Bootcamp](https://techyrick.com/python-primitive-data-type-full-tutorial-python-bootcamp/)
-- [Swapping two variables in python | Python Bootcamp](https://techyrick.com/swapping-two-variables-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
