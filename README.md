@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S9SRJPV6Lno"><img width="140px" src="https://i.ytimg.com/vi/S9SRJPV6Lno/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uGnIncTfbIk"><img width="140px" src="https://i.ytimg.com/vi/uGnIncTfbIk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uGnIncTfbIk">Bmi calculator in python full tutorial for beginners | #bmicalculator #python</a><br/>Oct 12, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=S9SRJPV6Lno"><img width="140px" src="https://i.ytimg.com/vi/S9SRJPV6Lno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S9SRJPV6Lno">Arithmetic operators in python full tutorial | #python #arithmetcoperator</a><br/>Oct 11, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=R2mVrFUoXy4"><img width="140px" src="https://i.ytimg.com/vi/R2mVrFUoXy4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R2mVrFUoXy4">Type function in python full tutorial | #python #typefunction</a><br/>Oct 11, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=GfwpGtxe4s8">Data type in python fully explained python bootcamp | #pythondatatypes</a><br/>Oct 9, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7KI8x6NmMII"><img width="140px" src="https://i.ytimg.com/vi/7KI8x6NmMII/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7KI8x6NmMII">Swapping two variables in python for beginners | #pythonsappingvariables</a><br/>Oct 9, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2IhJA7SMa3c"><img width="140px" src="https://i.ytimg.com/vi/2IhJA7SMa3c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2IhJA7SMa3c">Variables in python explained for beginners Python Bootcamp | #pythonvariables</a><br/>Oct 9, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
