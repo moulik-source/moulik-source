@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [If else in python | Full tutorial for beginners](https://techyrick.com/if-else-in-python/)
 - [Dirb full tutorial for beginners from noob to pro | 2021](https://techyrick.com/dirb/)
 - [Burpsuite Full tutorial from noob to pro 💯| Updated 2021](https://techyrick.com/burpsuite-full-tutorial/)
 - [F-String in python, What it does | Python Bootcamp](https://techyrick.com/f-string-in-python/)
 - [Number manipulation in python full tutorial | Python Bootcamp](https://techyrick.com/number-manipulation-in-python/)
-- [BMI calculator in python full tutorial | Python Bootcamp](https://techyrick.com/bmi-calculator-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
