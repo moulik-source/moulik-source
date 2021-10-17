@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=R4v9QkZ2hgg"><img width="140px" src="https://i.ytimg.com/vi/R4v9QkZ2hgg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cr0HYFpl5uY"><img width="140px" src="https://i.ytimg.com/vi/cr0HYFpl5uY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cr0HYFpl5uY">Error while opening the virtual machine: VMX file is corrupt. Fixed 2021</a><br/>Oct 17, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=R4v9QkZ2hgg"><img width="140px" src="https://i.ytimg.com/vi/R4v9QkZ2hgg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R4v9QkZ2hgg">F string in python full tutorial | #python #fstring</a><br/>Oct 17, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uHiPbKUqcLQ"><img width="140px" src="https://i.ytimg.com/vi/uHiPbKUqcLQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uHiPbKUqcLQ">Number manipulation in python full tutorial | #numbermanipulation #python</a><br/>Oct 12, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=uGnIncTfbIk">Bmi calculator in python full tutorial for beginners | #bmicalculator #python</a><br/>Oct 12, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S9SRJPV6Lno"><img width="140px" src="https://i.ytimg.com/vi/S9SRJPV6Lno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S9SRJPV6Lno">Arithmetic operators in python full tutorial | #python #arithmetcoperator</a><br/>Oct 11, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=R2mVrFUoXy4"><img width="140px" src="https://i.ytimg.com/vi/R2mVrFUoXy4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=R2mVrFUoXy4">Type function in python full tutorial | #python #typefunction</a><br/>Oct 11, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
