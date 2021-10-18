@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Leap year in python full explanation for beginners | Python Bootcamp](https://techyrick.com/leap-year-in-python-full-explanation-for-beginners-python-bootcamp/)
 - [Elif in python full tutorial for beginners| Python Bootcamp](https://techyrick.com/elif-in-python-full-tutorial-for-beginners-python-bootcamp/)
 - [Error while opening the virtual machine: VMX file is corrupt. Fixed 2021](https://techyrick.com/error-while-opening-the-virtual-machine-vmx-file-is-corrupt-fixed/)
 - [Dirbuster: Full command tutorial for beginners | Updated 2021](https://techyrick.com/dirbuster-full-command-tutorial-for-beginners/)
 - [Nested if statement in python | Full tutorial](https://techyrick.com/nested-if-statement-in-python/)
-- [If else in python | Full tutorial for beginners](https://techyrick.com/if-else-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
