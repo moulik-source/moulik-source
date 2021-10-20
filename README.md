@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4E7uZ95o7o4"><img width="140px" src="https://i.ytimg.com/vi/4E7uZ95o7o4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mNZF9lpap10"><img width="140px" src="https://i.ytimg.com/vi/mNZF9lpap10/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mNZF9lpap10">Burpsuite hands on proxy, intruder, repeater password cracking Tutorial 2</a><br/>Oct 20, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4E7uZ95o7o4"><img width="140px" src="https://i.ytimg.com/vi/4E7uZ95o7o4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4E7uZ95o7o4">Burpsuite Introduction | setting proxy, adding certificated and HTTP request Tutorial 1</a><br/>Oct 20, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cr0HYFpl5uY"><img width="140px" src="https://i.ytimg.com/vi/cr0HYFpl5uY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cr0HYFpl5uY">Error while opening the virtual machine: VMX file is corrupt. Fixed 2021</a><br/>Oct 17, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=R4v9QkZ2hgg">F string in python full tutorial | #python #fstring</a><br/>Oct 17, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uHiPbKUqcLQ"><img width="140px" src="https://i.ytimg.com/vi/uHiPbKUqcLQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uHiPbKUqcLQ">Number manipulation in python full tutorial | #numbermanipulation #python</a><br/>Oct 12, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uGnIncTfbIk"><img width="140px" src="https://i.ytimg.com/vi/uGnIncTfbIk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uGnIncTfbIk">Bmi calculator in python full tutorial for beginners | #bmicalculator #python</a><br/>Oct 12, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
