@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oL6NxYEHBvg"><img width="140px" src="https://i.ytimg.com/vi/oL6NxYEHBvg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JMeIpXtQxAg"><img width="140px" src="https://i.ytimg.com/vi/JMeIpXtQxAg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JMeIpXtQxAg">Dirb full tutorial for beginners | #dirb #dirbfulltutorial</a><br/>Oct 21, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oL6NxYEHBvg"><img width="140px" src="https://i.ytimg.com/vi/oL6NxYEHBvg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oL6NxYEHBvg">If else statement in python full tutorial | #python #ifelse</a><br/>Oct 20, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=frPnWED_aTQ"><img width="140px" src="https://i.ytimg.com/vi/frPnWED_aTQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=frPnWED_aTQ">Burpsuite tutorial 3 adding new tools, decoder, Logger</a><br/>Oct 20, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=mNZF9lpap10">Burpsuite hands on proxy, intruder, repeater password cracking Tutorial 2</a><br/>Oct 20, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4E7uZ95o7o4"><img width="140px" src="https://i.ytimg.com/vi/4E7uZ95o7o4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4E7uZ95o7o4">Burpsuite Introduction | setting proxy, adding certificated and HTTP request Tutorial 1</a><br/>Oct 20, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cr0HYFpl5uY"><img width="140px" src="https://i.ytimg.com/vi/cr0HYFpl5uY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cr0HYFpl5uY">Error while opening the virtual machine: VMX file is corrupt. Fixed 2021</a><br/>Oct 17, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
