@@ -50,15 +50,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xd4Nl3re9eI"><img width="140px" src="https://i.ytimg.com/vi/xd4Nl3re9eI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=o2RtTqdSwWw"><img width="140px" src="https://i.ytimg.com/vi/o2RtTqdSwWw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o2RtTqdSwWw">Leap year in python full tutorial  | #leapyearinpython #python</a><br/>Oct 22, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_a-a-kbZUsM"><img width="140px" src="https://i.ytimg.com/vi/_a-a-kbZUsM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_a-a-kbZUsM">dirbuster full tutorial from noob to pro | #dirbuster #fulltutorial</a><br/>Oct 22, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xd4Nl3re9eI"><img width="140px" src="https://i.ytimg.com/vi/xd4Nl3re9eI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xd4Nl3re9eI">Elif statement in python full tutorial | #python #elif</a><br/>Oct 21, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3U_Nge-P_6E"><img width="140px" src="https://i.ytimg.com/vi/3U_Nge-P_6E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3U_Nge-P_6E">nested if else statement in python full tutorial | #python #nestedifelse #explained</a><br/>Oct 21, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JMeIpXtQxAg"><img width="140px" src="https://i.ytimg.com/vi/JMeIpXtQxAg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JMeIpXtQxAg">Dirb full tutorial for beginners | #dirb #dirbfulltutorial</a><br/>Oct 21, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=oL6NxYEHBvg"><img width="140px" src="https://i.ytimg.com/vi/oL6NxYEHBvg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oL6NxYEHBvg">If else statement in python full tutorial | #python #ifelse</a><br/>Oct 20, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=frPnWED_aTQ"><img width="140px" src="https://i.ytimg.com/vi/frPnWED_aTQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=frPnWED_aTQ">Burpsuite tutorial 3 adding new tools, decoder, Logger</a><br/>Oct 20, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
