@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Square root in python full tutorial | Python Bootcamp](https://techyrick.com/square-root-in-python/)
 - [Logical operator in python full tutorial | Python Bootcamp](https://techyrick.com/logical-operator-in-python/)
 - [Adding two numbers in python full tutorial | Python Bootcamp](https://techyrick.com/adding-two-numbers-in-python-full-tutorial-python-bootcamp/)
 - [Ordering pizza in python full tutorial | Python Bootcamp](https://techyrick.com/ordering-pizza-in-python-full-tutorial-python-bootcamp/)
 - [Leap year in python full explanation for beginners | Python Bootcamp](https://techyrick.com/leap-year-in-python-full-explanation-for-beginners-python-bootcamp/)
-- [Elif in python full tutorial for beginners| Python Bootcamp](https://techyrick.com/elif-in-python-full-tutorial-for-beginners-python-bootcamp/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
