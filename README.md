@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [SQLMAP: Full tutorial for dummies | Updated 2021](https://techyrick.com/sqlmap-full-tutorial/)
 - [Square root in python full tutorial | Python Bootcamp](https://techyrick.com/square-root-in-python/)
 - [Logical operator in python full tutorial | Python Bootcamp](https://techyrick.com/logical-operator-in-python/)
 - [Adding two numbers in python full tutorial | Python Bootcamp](https://techyrick.com/adding-two-numbers-in-python-full-tutorial-python-bootcamp/)
 - [Ordering pizza in python full tutorial | Python Bootcamp](https://techyrick.com/ordering-pizza-in-python-full-tutorial-python-bootcamp/)
-- [Leap year in python full explanation for beginners | Python Bootcamp](https://techyrick.com/leap-year-in-python-full-explanation-for-beginners-python-bootcamp/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
