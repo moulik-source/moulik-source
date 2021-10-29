@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Area of a triangle in python full tutorial | Python Bootcamp](https://techyrick.com/area-of-a-triangle-in-python-full-tutorial-python-bootcamp/)
 - [HTTrack: Full tutorial for beginners from scratch | updated 2021](https://techyrick.com/httrack-full-tutorial/)
 - [SQLMAP: Full tutorial for dummies | Updated 2021](https://techyrick.com/sqlmap-full-tutorial/)
 - [Square root in python full tutorial | Python Bootcamp](https://techyrick.com/square-root-in-python/)
 - [Logical operator in python full tutorial | Python Bootcamp](https://techyrick.com/logical-operator-in-python/)
-- [Adding two numbers in python full tutorial | Python Bootcamp](https://techyrick.com/adding-two-numbers-in-python-full-tutorial-python-bootcamp/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
