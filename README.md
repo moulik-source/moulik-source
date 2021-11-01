@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EKl99aOSYjs"><img width="140px" src="https://i.ytimg.com/vi/EKl99aOSYjs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HjRdaitu9yY"><img width="140px" src="https://i.ytimg.com/vi/HjRdaitu9yY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HjRdaitu9yY">Webhttrack full tutorial for beginners | #webhttrack</a><br/>Nov 1, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EKl99aOSYjs"><img width="140px" src="https://i.ytimg.com/vi/EKl99aOSYjs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EKl99aOSYjs">Advanced IP scanner | I Hate the tool</a><br/>Nov 1, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n-ti1Yz-AaY"><img width="140px" src="https://i.ytimg.com/vi/n-ti1Yz-AaY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n-ti1Yz-AaY">Logical operator in python | #python #logicalopertor</a><br/>Nov 1, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=fFjJMVCguVE">Adding two numbers in python | #python #adddingtwonumbersinpython</a><br/>Nov 1, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TeUaIgofgF0"><img width="140px" src="https://i.ytimg.com/vi/TeUaIgofgF0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TeUaIgofgF0">Ordering pizza in python full tutorial | #orderingpizza #python</a><br/>Oct 30, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SwB36FtTq00"><img width="140px" src="https://i.ytimg.com/vi/SwB36FtTq00/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SwB36FtTq00">updating kali Linux in fastest way | #updatingkalilinux</a><br/>Oct 30, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
