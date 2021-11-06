@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Heads or Tails in python | Python Bootcamp](https://techyrick.com/heads-or-tails-in-python/)
 - [Random module in Python Full tutorial | Python Bootcamp](https://techyrick.com/random-module-in-python-full-tutorial-python-bootcamp/)
 - [Types of hackers, Explained by a Hacker | updated 2021](https://techyrick.com/types-of-hackers/)
 - [Celsius to Fahrenheit in python full tutorial | Python Bootcamp](https://techyrick.com/celsius-to-fahrenheit-in-python/)
 - [Shodan: “Dark Google” Full explained from scratch | updated 2021](https://techyrick.com/shodan-dark-google-full-explained/)
-- [Webhttrack: Full tutorial from scratch to pro 💯](https://techyrick.com/webhttrack-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
