@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZyYCiI0I9Z8"><img width="140px" src="https://i.ytimg.com/vi/ZyYCiI0I9Z8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Z_5bKfbe5Rw"><img width="140px" src="https://i.ytimg.com/vi/Z_5bKfbe5Rw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Z_5bKfbe5Rw">Leap year in python full tutorial  | #leapyearinpython #python</a><br/>Nov 7, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZyYCiI0I9Z8"><img width="140px" src="https://i.ytimg.com/vi/ZyYCiI0I9Z8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZyYCiI0I9Z8">Kilometer to miles in python full tutorial | #python #kmtomiles</a><br/>Nov 3, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JEYME3N2HjM"><img width="140px" src="https://i.ytimg.com/vi/JEYME3N2HjM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JEYME3N2HjM">Area of triangle in python full tutorial | #areaoftriangleinpython #python</a><br/>Nov 3, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=RHJY8mdra2E">Square root in python full tutorial | #python #squarerootinpython</a><br/>Nov 3, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HjRdaitu9yY"><img width="140px" src="https://i.ytimg.com/vi/HjRdaitu9yY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HjRdaitu9yY">Webhttrack full tutorial for beginners | #webhttrack</a><br/>Nov 1, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EKl99aOSYjs"><img width="140px" src="https://i.ytimg.com/vi/EKl99aOSYjs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EKl99aOSYjs">Advanced IP scanner | I Hate the tool</a><br/>Nov 1, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
