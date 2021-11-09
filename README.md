@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FfBi9jW5t0o"><img width="140px" src="https://i.ytimg.com/vi/FfBi9jW5t0o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8F32P0IGggk"><img width="140px" src="https://i.ytimg.com/vi/8F32P0IGggk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8F32P0IGggk">Celsius to Fahrenheit in python full tutorial | #python #celsiustofahrenheit</a><br/>Nov 9, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FfBi9jW5t0o"><img width="140px" src="https://i.ytimg.com/vi/FfBi9jW5t0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FfBi9jW5t0o">Information gathering using shodan from scratch to pro | #shodan #shodantutorial</a><br/>Nov 8, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z_5bKfbe5Rw"><img width="140px" src="https://i.ytimg.com/vi/Z_5bKfbe5Rw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z_5bKfbe5Rw">Leap year in python full tutorial  | #leapyearinpython #python</a><br/>Nov 7, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=ZyYCiI0I9Z8">Kilometer to miles in python full tutorial | #python #kmtomiles</a><br/>Nov 3, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JEYME3N2HjM"><img width="140px" src="https://i.ytimg.com/vi/JEYME3N2HjM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JEYME3N2HjM">Area of triangle in python full tutorial | #areaoftriangleinpython #python</a><br/>Nov 3, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RHJY8mdra2E"><img width="140px" src="https://i.ytimg.com/vi/RHJY8mdra2E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RHJY8mdra2E">Square root in python full tutorial | #python #squarerootinpython</a><br/>Nov 3, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
