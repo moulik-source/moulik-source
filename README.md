@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Cewl: Full tutorial from noob to pro | Updated 2021](https://techyrick.com/cewl/)
 - [Crunch: A password generating tool | updated 2021](https://techyrick.com/crunch-password-generator-tool/)
 - [Check a number is odd or even in python](https://techyrick.com/check-a-number-is-odd-or-even-in-python/)
 - [Check a number is positive, negative or zero in python](https://techyrick.com/check-a-number-is-positive-negative-or-zero-in-python/)
 - [Heads or Tails in python | Python Bootcamp](https://techyrick.com/heads-or-tails-in-python/)
-- [Random module in Python Full tutorial | Python Bootcamp](https://techyrick.com/random-module-in-python-full-tutorial-python-bootcamp/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
