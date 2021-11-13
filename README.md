@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [WPScan: Full tutorial from noob to pro | updated 2021](https://techyrick.com/wpscan/)
 - [Python program to check prime number | Python Bootcamp](https://techyrick.com/python-program-to-check-prime-number/)
 - [Cewl: Full tutorial from noob to pro | Updated 2021](https://techyrick.com/cewl/)
 - [Crunch: A password generating tool | updated 2021](https://techyrick.com/crunch-password-generator-tool/)
 - [Check a number is odd or even in python](https://techyrick.com/check-a-number-is-odd-or-even-in-python/)
-- [Check a number is positive, negative or zero in python](https://techyrick.com/check-a-number-is-positive-negative-or-zero-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
