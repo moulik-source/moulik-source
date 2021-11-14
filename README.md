@@ -50,15 +50,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ROH83prHihg"><img width="140px" src="https://i.ytimg.com/vi/ROH83prHihg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-Vd4Myx6pM0"><img width="140px" src="https://i.ytimg.com/vi/-Vd4Myx6pM0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-Vd4Myx6pM0">Bandit Level 5 to 10 from scratch | #bandittutorial</a><br/>Nov 14, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=exs8b-Q36vg"><img width="140px" src="https://i.ytimg.com/vi/exs8b-Q36vg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=exs8b-Q36vg">Bandit level 0 to 5 from scratch |  #bandittutorial</a><br/>Nov 14, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ROH83prHihg"><img width="140px" src="https://i.ytimg.com/vi/ROH83prHihg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ROH83prHihg">The 10 different types of hackers simply explained | #typesofhackers</a><br/>Nov 10, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OK0Lfn6Qyq8"><img width="140px" src="https://i.ytimg.com/vi/OK0Lfn6Qyq8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OK0Lfn6Qyq8">Crunch password list generating tool from noob to pro | #crunch #crunchfulltutorial</a><br/>Nov 9, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8F32P0IGggk"><img width="140px" src="https://i.ytimg.com/vi/8F32P0IGggk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8F32P0IGggk">Celsius to Fahrenheit in python full tutorial | #python #celsiustofahrenheit</a><br/>Nov 9, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FfBi9jW5t0o"><img width="140px" src="https://i.ytimg.com/vi/FfBi9jW5t0o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FfBi9jW5t0o">Information gathering using shodan from scratch to pro | #shodan #shodantutorial</a><br/>Nov 8, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Z_5bKfbe5Rw"><img width="140px" src="https://i.ytimg.com/vi/Z_5bKfbe5Rw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Z_5bKfbe5Rw">Leap year in python full tutorial  | #leapyearinpython #python</a><br/>Nov 7, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
