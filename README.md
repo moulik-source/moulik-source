@@ -50,15 +50,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-Vd4Myx6pM0"><img width="140px" src="https://i.ytimg.com/vi/-Vd4Myx6pM0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ckaRpJvIdDo"><img width="140px" src="https://i.ytimg.com/vi/ckaRpJvIdDo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ckaRpJvIdDo">odd or even in python | #python #oddoreveninpython</a><br/>Nov 15, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GSugLbG85RE"><img width="140px" src="https://i.ytimg.com/vi/GSugLbG85RE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GSugLbG85RE">Check a number is positive negative or zero in python | #python</a><br/>Nov 15, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7Me3NkxsayM"><img width="140px" src="https://i.ytimg.com/vi/7Me3NkxsayM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7Me3NkxsayM">Random module in python | #randommodule #python</a><br/>Nov 15, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-Vd4Myx6pM0"><img width="140px" src="https://i.ytimg.com/vi/-Vd4Myx6pM0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-Vd4Myx6pM0">Bandit Level 5 to 10 from scratch | #bandittutorial</a><br/>Nov 14, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=exs8b-Q36vg"><img width="140px" src="https://i.ytimg.com/vi/exs8b-Q36vg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=exs8b-Q36vg">Bandit level 0 to 5 from scratch |  #bandittutorial</a><br/>Nov 14, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ROH83prHihg"><img width="140px" src="https://i.ytimg.com/vi/ROH83prHihg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ROH83prHihg">The 10 different types of hackers simply explained | #typesofhackers</a><br/>Nov 10, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OK0Lfn6Qyq8"><img width="140px" src="https://i.ytimg.com/vi/OK0Lfn6Qyq8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OK0Lfn6Qyq8">Crunch password list generating tool from noob to pro | #crunch #crunchfulltutorial</a><br/>Nov 9, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8F32P0IGggk"><img width="140px" src="https://i.ytimg.com/vi/8F32P0IGggk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8F32P0IGggk">Celsius to Fahrenheit in python full tutorial | #python #celsiustofahrenheit</a><br/>Nov 9, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
