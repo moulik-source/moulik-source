@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eKuCl43gljY"><img width="140px" src="https://i.ytimg.com/vi/eKuCl43gljY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WjpNvoOBFoE"><img width="140px" src="https://i.ytimg.com/vi/WjpNvoOBFoE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WjpNvoOBFoE">Wpscan full tutorial from noob to pro for sure | #wpscan #wpscanfulltutorial</a><br/>Nov 22, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eKuCl43gljY"><img width="140px" src="https://i.ytimg.com/vi/eKuCl43gljY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eKuCl43gljY">Cewl full tutorial from noob to pro | #cewl #cewltutorial</a><br/>Nov 20, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ckaRpJvIdDo"><img width="140px" src="https://i.ytimg.com/vi/ckaRpJvIdDo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ckaRpJvIdDo">odd or even in python | #python #oddoreveninpython</a><br/>Nov 15, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=GSugLbG85RE">Check a number is positive negative or zero in python | #python</a><br/>Nov 15, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7Me3NkxsayM"><img width="140px" src="https://i.ytimg.com/vi/7Me3NkxsayM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7Me3NkxsayM">Random module in python | #randommodule #python</a><br/>Nov 15, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-Vd4Myx6pM0"><img width="140px" src="https://i.ytimg.com/vi/-Vd4Myx6pM0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-Vd4Myx6pM0">Bandit Level 5 to 10 from scratch | #bandittutorial</a><br/>Nov 14, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
