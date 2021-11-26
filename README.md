@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Ncrack: The best password cracking tool | updated 2021](https://techyrick.com/ncrack/)
+- [Medusa: Password cracking is EASY !!! Full tutorial | Updated 2021](https://techyrick.com/medusa-tool-tutorial/)
 - [Print multiplication table in python | Python Bootcamp](https://techyrick.com/print-multiplication-table-in-python/)
 - [Twofi: A custom password list generator | Updated 2021](https://techyrick.com/twofi/)
 - [WPScan: Full tutorial from noob to pro | updated 2021](https://techyrick.com/wpscan/)
-- [Python program to check prime number | Python Bootcamp](https://techyrick.com/python-program-to-check-prime-number/)
-- [Cewl: Full tutorial from noob to pro | Updated 2021](https://techyrick.com/cewl/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
