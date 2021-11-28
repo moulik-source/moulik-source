@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Aircrack-ng Full tutorial for beginners | updated 2021](https://techyrick.com/aircrack-ng-full-tutorial/)
 - [Hydra full tutorial from scratch | Updated 2021](https://techyrick.com/hydra-full-tutorial/)
 - [John the Ripper: Full tutorial from noob to pro | updated 2021](https://techyrick.com/john-the-ripper-tutorial/)
 - [Ncrack: The best password cracking tool | updated 2021](https://techyrick.com/ncrack/)
 - [Medusa: Password cracking is EASY !!! Full tutorial | Updated 2021](https://techyrick.com/medusa-tool-tutorial/)
-- [Print multiplication table in python | Python Bootcamp](https://techyrick.com/print-multiplication-table-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
