@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Fern: A Wifi password cracking tool tutorial | Updated 2021](https://techyrick.com/fern-wifi-cracker/)
 - [Aircrack-ng Full tutorial for beginners | updated 2021](https://techyrick.com/aircrack-ng-full-tutorial/)
 - [Hydra full tutorial from scratch | Updated 2021](https://techyrick.com/hydra-full-tutorial/)
 - [John the Ripper: Full tutorial from noob to pro | updated 2021](https://techyrick.com/john-the-ripper-tutorial/)
 - [Ncrack: The best password cracking tool | updated 2021](https://techyrick.com/ncrack/)
-- [Medusa: Password cracking is EASY !!! Full tutorial | Updated 2021](https://techyrick.com/medusa-tool-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
