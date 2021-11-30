@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ghg2yRA1Igo"><img width="140px" src="https://i.ytimg.com/vi/Ghg2yRA1Igo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CXvEJlXXMVc"><img width="140px" src="https://i.ytimg.com/vi/CXvEJlXXMVc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CXvEJlXXMVc">What is aircrack ng ? #aircrackng</a><br/>Nov 30, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ghg2yRA1Igo"><img width="140px" src="https://i.ytimg.com/vi/Ghg2yRA1Igo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ghg2yRA1Igo">Ncrack full tutorial from scratch | #ncrack #ncracktutorial</a><br/>Nov 30, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2Z13xzHThhg"><img width="140px" src="https://i.ytimg.com/vi/2Z13xzHThhg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2Z13xzHThhg">Medusa password cracking tool tutorial from scratch | #medusa #medusatutorial</a><br/>Nov 26, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=aiVBMxaa2BM">Wpscan full tutorial from noob to pro | #wpscan #wpscantutorial</a><br/>Nov 23, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eKuCl43gljY"><img width="140px" src="https://i.ytimg.com/vi/eKuCl43gljY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eKuCl43gljY">Cewl full tutorial from noob to pro | #cewl #cewltutorial</a><br/>Nov 20, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ckaRpJvIdDo"><img width="140px" src="https://i.ytimg.com/vi/ckaRpJvIdDo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ckaRpJvIdDo">odd or even in python | #python #oddoreveninpython</a><br/>Nov 15, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
