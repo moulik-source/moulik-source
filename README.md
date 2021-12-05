@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [LAMPSECURITY: CTF5 Full tutorial from scratch](https://techyrick.com/lampsecurity-ctf5-full-tutorial/)
 - [LAMPSECURITY: CTF4 Full tutorial and Hacked](https://techyrick.com/lampsecurity-ctf4-full-tutorial/)
 - [OverTheWire – Bandit Walkthrough Level 0 to 33 | Updated 2021](https://techyrick.com/overthewire-bandit/)
 - [Cowpatty: Wifi cracking full tutorial | Updated 2021](https://techyrick.com/cowpatty/)
 - [Aircrack-ng Full tutorial for beginners | updated 2021](https://techyrick.com/aircrack-ng-full-tutorial/)
-- [Hydra full tutorial from scratch | Updated 2021](https://techyrick.com/hydra-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
