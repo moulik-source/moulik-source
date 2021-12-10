@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [What is CIA triad? Explained by security expert](https://techyrick.com/cia-triad/)
 - [LAMPSecurity: CTF8 Full tutorial from scratch](https://techyrick.com/lampsecurity-ctf8-full-tutorial/)
 - [Ophcrack pasword cracking full tutorial](https://techyrick.com/ophcrack-tutorial/)
 - [Fern wifi cracker full tutorial from scratch](https://techyrick.com/fern-wifi-cracker/)
 - [LAMPSECURITY: CTF5 Full tutorial from scratch](https://techyrick.com/lampsecurity-ctf5-full-tutorial/)
-- [LAMPSECURITY: CTF4 Full tutorial and Hacked](https://techyrick.com/lampsecurity-ctf4-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
