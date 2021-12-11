@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Wireless attack using MDK3 full tutorial | updated 2021](https://techyrick.com/wireless-attack-using-mdk3-full-tutorial/)
 - [Kismet: Wireless network monitoring tool Explained](https://techyrick.com/kismet-wireless-network-monitoring-tool-explained/)
 - [Log4j2 Vulnerability attacks](https://techyrick.com/log4j2-vulnerability-attacks/)
 - [What is CIA triad? Explained by security expert](https://techyrick.com/cia-triad/)
 - [LAMPSecurity: CTF8 Full tutorial from scratch](https://techyrick.com/lampsecurity-ctf8-full-tutorial/)
-- [Ophcrack pasword cracking full tutorial](https://techyrick.com/ophcrack-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
