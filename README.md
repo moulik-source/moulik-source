@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Google dorks command | Full Tutorial](https://techyrick.com/google-dorks-commands/)
 - [Driftnet Full tutorial from noob to pro | updated 2021](https://techyrick.com/driftnet/)
 - [Static Malware Analysis Vs Dynamic Malware Analysis](https://techyrick.com/static-malware-analysis-vs-dynamic-malware-analysis/)
 - [SMBMap full tutorial from noob to pro | updated 2021](https://techyrick.com/smbmap/)
 - [LAMPSecurity: CTF6 Vulnhub Walkthrough full tutorial](https://techyrick.com/lampsecurity-ctf6-vulnhub-walkthrough-full-tutorial/)
-- [Wireless attack using MDK3 full tutorial | updated 2021](https://techyrick.com/wireless-attack-using-mdk3-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
