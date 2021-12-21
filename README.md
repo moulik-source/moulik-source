@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ABbBOO-KAVs"><img width="140px" src="https://i.ytimg.com/vi/ABbBOO-KAVs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jMT_3711mSI"><img width="140px" src="https://i.ytimg.com/vi/jMT_3711mSI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jMT_3711mSI">Google dorks all command tutorial from scratch | #googlehacking #googledorks</a><br/>Dec 21, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ABbBOO-KAVs"><img width="140px" src="https://i.ytimg.com/vi/ABbBOO-KAVs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ABbBOO-KAVs">What is malware analysis? Static analysis vs dynamic analysis</a><br/>Dec 20, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rhd-bqE91bY"><img width="140px" src="https://i.ytimg.com/vi/rhd-bqE91bY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rhd-bqE91bY">Driftnet tool full tutorial from scratch | #driftnet #driftnettooltutorial</a><br/>Dec 20, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=epK9GnOPgMY">SMBMap full tutorial from scratch | #smbmap #smbmaptutorial</a><br/>Dec 16, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=roqIJGDbPK0"><img width="140px" src="https://i.ytimg.com/vi/roqIJGDbPK0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=roqIJGDbPK0">Ophcrack password cracking full tutorial from scratch | #ophcrack #ophcracktutorial</a><br/>Dec 10, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IxGqxO0gSiE"><img width="140px" src="https://i.ytimg.com/vi/IxGqxO0gSiE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IxGqxO0gSiE">LAMPSecurity CTF5 full tutorial | #lampsecurity #lampsecurityctf5</a><br/>Dec 8, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
