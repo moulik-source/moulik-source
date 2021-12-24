@@ -8,7 +8,7 @@
 - Hacking tool blog: **http://www.techyrick.com/category/hacking-tools-download/**
 - Blog: **http://www.techyrick.com/blog/**
 
-- 🔭 I’m currently working on **cve-list**
+- 🔭 I’m currently working on **Blog post**
 
 - 🌱 I’m currently learning **about some exploit tools**
 
