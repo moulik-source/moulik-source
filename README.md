@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H68rxyuzY20"><img width="140px" src="https://i.ytimg.com/vi/H68rxyuzY20/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0DmV_SbhRXE"><img width="140px" src="https://i.ytimg.com/vi/0DmV_SbhRXE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0DmV_SbhRXE">What is DMCA Act ?</a><br/>Dec 24, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H68rxyuzY20"><img width="140px" src="https://i.ytimg.com/vi/H68rxyuzY20/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H68rxyuzY20">When anonymous formed?</a><br/>Dec 24, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_HxKBcy00cE"><img width="140px" src="https://i.ytimg.com/vi/_HxKBcy00cE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_HxKBcy00cE">Macchanger tool full tutorial from noob to pro | #macchanger</a><br/>Dec 22, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=jMT_3711mSI">Google dorks all command tutorial from scratch | #googlehacking #googledorks</a><br/>Dec 21, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ABbBOO-KAVs"><img width="140px" src="https://i.ytimg.com/vi/ABbBOO-KAVs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ABbBOO-KAVs">What is malware analysis? Static analysis vs dynamic analysis</a><br/>Dec 20, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rhd-bqE91bY"><img width="140px" src="https://i.ytimg.com/vi/rhd-bqE91bY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rhd-bqE91bY">Driftnet tool full tutorial from scratch | #driftnet #driftnettooltutorial</a><br/>Dec 20, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
