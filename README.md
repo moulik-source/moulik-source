@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [hash-identifier full tutorial | updated 2021](https://techyrick.com/hash-identifier-full-tutorial/)
 - [Arpspoof: Sniffing &amp; Spoofing full tutorial | updated 2021](https://techyrick.com/arpspoof-full-tutorial/)
 - [Macchanger: Full tutorial from noob to pro](https://techyrick.com/macchanger-full-tutorial/)
 - [Google dorks command | Full Tutorial](https://techyrick.com/google-dorks-commands/)
 - [Driftnet Full tutorial from noob to pro | updated 2021](https://techyrick.com/driftnet/)
-- [Static Malware Analysis Vs Dynamic Malware Analysis](https://techyrick.com/static-malware-analysis-vs-dynamic-malware-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
