@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [p0f – Passive Traffic Analysis full tutorial](https://techyrick.com/p0f-full-tutorial/)
 - [Mimikatz full tutorial from noob to pro](https://techyrick.com/mimikatz-tutorial/)
 - [urlsnarf: What is? Full tutorial from scratch](https://techyrick.com/urlsnarf/)
 - [hash-identifier full tutorial | updated 2022](https://techyrick.com/hash-identifier-full-tutorial/)
 - [Arpspoof: Sniffing &amp; Spoofing full tutorial | updated 2022](https://techyrick.com/arpspoof-full-tutorial/)
-- [Macchanger: Full tutorial from noob to pro](https://techyrick.com/macchanger-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
