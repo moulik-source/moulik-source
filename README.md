@@ -34,8 +34,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Mimikatz full tutorial from noob to pro](https://techyrick.com/mimikatz-tutorial/)
 - [urlsnarf: What is? Full tutorial from scratch](https://techyrick.com/urlsnarf/)
-- [hash-identifier full tutorial | updated 2021](https://techyrick.com/hash-identifier-full-tutorial/)
-- [Arpspoof: Sniffing &amp; Spoofing full tutorial | updated 2021](https://techyrick.com/arpspoof-full-tutorial/)
+- [hash-identifier full tutorial | updated 2022](https://techyrick.com/hash-identifier-full-tutorial/)
+- [Arpspoof: Sniffing &amp; Spoofing full tutorial | updated 2022](https://techyrick.com/arpspoof-full-tutorial/)
 - [Macchanger: Full tutorial from noob to pro](https://techyrick.com/macchanger-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
