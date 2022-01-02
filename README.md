@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [What is a Brute Force Attack? How to perform one | updated 2022](https://techyrick.com/brute-force-attack/)
 - [p0f – Passive Traffic Analysis full tutorial](https://techyrick.com/p0f-full-tutorial/)
 - [Mimikatz full tutorial from noob to pro](https://techyrick.com/mimikatz-tutorial/)
 - [urlsnarf: What is? Full tutorial from scratch](https://techyrick.com/urlsnarf/)
 - [hash-identifier full tutorial | updated 2022](https://techyrick.com/hash-identifier-full-tutorial/)
-- [Arpspoof: Sniffing &amp; Spoofing full tutorial | updated 2022](https://techyrick.com/arpspoof-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
