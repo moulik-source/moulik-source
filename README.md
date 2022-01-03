@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lfumJbILiAc"><img width="140px" src="https://i.ytimg.com/vi/lfumJbILiAc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IghqKRgaqZs"><img width="140px" src="https://i.ytimg.com/vi/IghqKRgaqZs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IghqKRgaqZs">p0f kali tool full tutorial from scratch | #p0f #p0ffulltutorial</a><br/>Jan 3, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lfumJbILiAc"><img width="140px" src="https://i.ytimg.com/vi/lfumJbILiAc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lfumJbILiAc">How to install mimikatz and run the tool for beginners | #mimikatz</a><br/>Dec 31, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8r7rdAhAJeE"><img width="140px" src="https://i.ytimg.com/vi/8r7rdAhAJeE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8r7rdAhAJeE">Hash identifier full tutorial from scratch | #hash-identifier #hashidentifiertutorial</a><br/>Dec 27, 2021</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=0DmV_SbhRXE">What is DMCA Act ?</a><br/>Dec 24, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=H68rxyuzY20"><img width="140px" src="https://i.ytimg.com/vi/H68rxyuzY20/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H68rxyuzY20">When anonymous formed?</a><br/>Dec 24, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_HxKBcy00cE"><img width="140px" src="https://i.ytimg.com/vi/_HxKBcy00cE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_HxKBcy00cE">Macchanger tool full tutorial from noob to pro | #macchanger</a><br/>Dec 22, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
