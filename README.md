@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=llT_cxSd0a8"><img width="140px" src="https://i.ytimg.com/vi/llT_cxSd0a8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=StuzA6-Z1qg"><img width="140px" src="https://i.ytimg.com/vi/StuzA6-Z1qg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=StuzA6-Z1qg">L0phtcrack how to crack passwords full tutorial | #L0phtcrack</a><br/>Jan 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=llT_cxSd0a8"><img width="140px" src="https://i.ytimg.com/vi/llT_cxSd0a8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=llT_cxSd0a8">TCPDUMP full tutorial from scratch | #tcpdump</a><br/>Jan 20, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ewOCpcJ_HfY"><img width="140px" src="https://i.ytimg.com/vi/ewOCpcJ_HfY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ewOCpcJ_HfY">5 stages of hacking explained | #stagesofhacking</a><br/>Jan 19, 2022</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=fpGS_2Tl9Rk">Wireshark name resolution Full tutorial Lesson 5</a><br/>Jan 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OFeoDqguNAQ"><img width="140px" src="https://i.ytimg.com/vi/OFeoDqguNAQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OFeoDqguNAQ">Wireshark Lesson 4 | Filtering packets from scratch | #wireshark</a><br/>Jan 12, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QHKatBn5HK8"><img width="140px" src="https://i.ytimg.com/vi/QHKatBn5HK8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QHKatBn5HK8">Wireshark lesson 2 | How to capture packets from scratch | #wireshark</a><br/>Jan 12, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
