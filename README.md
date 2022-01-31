@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NhUaKQULq04"><img width="140px" src="https://i.ytimg.com/vi/NhUaKQULq04/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xRehIzmsayA"><img width="140px" src="https://i.ytimg.com/vi/xRehIzmsayA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xRehIzmsayA">Introduction to Metasploit and Metasploit Architecture | #metasploit</a><br/>Jan 31, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NhUaKQULq04"><img width="140px" src="https://i.ytimg.com/vi/NhUaKQULq04/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NhUaKQULq04">Twitter All in one bot creating | #twitterbotcreating #twitterbot</a><br/>Jan 31, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Y4hFCdyRczM"><img width="140px" src="https://i.ytimg.com/vi/Y4hFCdyRczM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Y4hFCdyRczM">The best brute force password generator for 21 century</a><br/>Jan 25, 2022</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=Y0XyAsSxmxc">DLL Injection and Dylib Injeection explained</a><br/>Jan 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=StuzA6-Z1qg"><img width="140px" src="https://i.ytimg.com/vi/StuzA6-Z1qg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=StuzA6-Z1qg">L0phtcrack how to crack passwords full tutorial | #L0phtcrack</a><br/>Jan 24, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=llT_cxSd0a8"><img width="140px" src="https://i.ytimg.com/vi/llT_cxSd0a8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=llT_cxSd0a8">TCPDUMP full tutorial from scratch | #tcpdump</a><br/>Jan 20, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
