@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [KIOPTRIX: LEVEL 3 [Vulnhub] | Full Tutorial](https://techyrick.com/kioptrix-level-3/)
-- [KIOPTRIX: LEVEL 2 [Vulnhub] | Full tutorial](https://techyrick.com/kioptrix-level-2-full-tutorial/)
-- [TCPDUMP Command Full Tutorial | Updated 2022](https://techyrick.com/tcpdump-command/)
-- [KIOPTRIX: LEVEL 1 [Vulnhub] Walkthrough](https://techyrick.com/kioptrix-level-1-vulnhub-walkthrough/)
-- [Wireshark Name Resolution tutorial | Lesson 5](https://techyrick.com/wireshark-name-resolution-tutorial/)
+- [What is MSFconsole Full Tutorial | Lesson 5](https://techyrick.com/what-is-msfconsole/)
+- [MSFCLI Full Tutorial | Lesson 4](https://techyrick.com/msfcli-explained/)
+- [Metasploit Modules Explained | Lesson 3](https://techyrick.com/metasploit-modules/)
+- [Metasploit Architecture and Libraries | Lesson 2](https://techyrick.com/metasploit-architecture-and-libraries/)
+- [An Introduction to Metasploit | Lesson1](https://techyrick.com/introduction-to-metasploit/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
