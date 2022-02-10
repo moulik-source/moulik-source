@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7Yylni-zQaw"><img width="140px" src="https://i.ytimg.com/vi/7Yylni-zQaw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VyzyQSuXAM0"><img width="140px" src="https://i.ytimg.com/vi/VyzyQSuXAM0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VyzyQSuXAM0">Metasploit full commands tutorial from scratch to pro 2022</a><br/>Feb 10, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7Yylni-zQaw"><img width="140px" src="https://i.ytimg.com/vi/7Yylni-zQaw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7Yylni-zQaw">How to use Metasploit in proper way guide | #Metasploit</a><br/>Feb 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SyY1gvl9Y-g"><img width="140px" src="https://i.ytimg.com/vi/SyY1gvl9Y-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SyY1gvl9Y-g">Metasploit Modules Explained | #Metasploit</a><br/>Feb 2, 2022</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=xRehIzmsayA">Introduction to Metasploit and Metasploit Architecture | #metasploit</a><br/>Jan 31, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NhUaKQULq04"><img width="140px" src="https://i.ytimg.com/vi/NhUaKQULq04/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NhUaKQULq04">Twitter All in one bot creating | #twitterbotcreating #twitterbot</a><br/>Jan 31, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Y4hFCdyRczM"><img width="140px" src="https://i.ytimg.com/vi/Y4hFCdyRczM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Y4hFCdyRczM">The best brute force password generator for 21 century</a><br/>Jan 25, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
