@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [What are an Exploit and its types | Metasploit](https://techyrick.com/what-are-an-exploit-and-its-types/)
 - [Metasploit Commands in one place | Updated [2022]](https://techyrick.com/metasploit-commands/)
 - [What is MSFconsole Full Tutorial | Lesson 5](https://techyrick.com/what-is-msfconsole/)
 - [MSFCLI Full Tutorial | Lesson 4](https://techyrick.com/msfcli-explained/)
 - [Metasploit Modules Explained | Lesson 3](https://techyrick.com/metasploit-modules/)
-- [Metasploit Architecture and Libraries | Lesson 2](https://techyrick.com/metasploit-architecture-and-libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
