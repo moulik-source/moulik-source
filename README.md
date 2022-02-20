@@ -32,11 +32,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Droopy CTF Walkthrough Full tutorial | Vulnhub](https://techyrick.com/droopy-ctf-walkthrough-full-tutorial/)
 - [Mr Robot 1 | Vulnhub.com CTF Walkthrough](https://techyrick.com/mr-robot-1-vulnhub-ctf-walkthrough/)
 - [What is a payload and its types](https://techyrick.com/what-is-a-payload-and-its-types/)
 - [What are an Exploit and its types | Metasploit](https://techyrick.com/what-are-an-exploit-and-its-types/)
 - [Metasploit Commands in one place | Updated [2022]](https://techyrick.com/metasploit-commands/)
-- [What is MSFconsole Full Tutorial | Lesson 5](https://techyrick.com/what-is-msfconsole/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
