@@ -50,7 +50,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mzj3SVlLwuo"><img width="140px" src="https://i.ytimg.com/vi/mzj3SVlLwuo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rVLoiDCvFVE"><img width="140px" src="https://i.ytimg.com/vi/rVLoiDCvFVE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rVLoiDCvFVE">Information gathering using Metasploit | #metasploit</a><br/>Feb 23, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mzj3SVlLwuo"><img width="140px" src="https://i.ytimg.com/vi/mzj3SVlLwuo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mzj3SVlLwuo">Zip file password crackimg using john | #john #zip2john</a><br/>Feb 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nxW_cnRpaSU"><img width="140px" src="https://i.ytimg.com/vi/nxW_cnRpaSU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nxW_cnRpaSU">Droopy CTF vulnhub cracked | #droopy #CTF</a><br/>Feb 21, 2022</td></tr></table>
@@ -58,7 +60,5 @@
 <td><a href="https://www.youtube.com/watch?v=kCvrDl94Dow">Mr robot vulnhub challege full tutorial | #mrrobot #ctf #vulnhub</a><br/>Feb 18, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v4ByCYBAb48"><img width="140px" src="https://i.ytimg.com/vi/v4ByCYBAb48/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v4ByCYBAb48">Revealing wifi passwords in seconds</a><br/>Feb 12, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VyzyQSuXAM0"><img width="140px" src="https://i.ytimg.com/vi/VyzyQSuXAM0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VyzyQSuXAM0">Metasploit full commands tutorial from scratch to pro 2022</a><br/>Feb 10, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
