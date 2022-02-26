@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [TR0LL: 1 CTF Full tutorial | Vulnhub](https://techyrick.com/tr0ll-1-ctf-full-tutorial-vulnhub/)
 - [Information Gathering using Metasploit](https://techyrick.com/information-gathering-using-metasploit/)
 - [TommyBoy Vulnhub CTF Challange Cracked](https://techyrick.com/tommyboy-vulnhub-ctf/)
 - [Droopy CTF Walkthrough Full tutorial | Vulnhub](https://techyrick.com/droopy-ctf-walkthrough-full-tutorial/)
 - [Mr Robot 1 | Vulnhub.com CTF Walkthrough](https://techyrick.com/mr-robot-1-vulnhub-ctf-walkthrough/)
-- [What is a payload and its types](https://techyrick.com/what-is-a-payload-and-its-types/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
