@@ -48,15 +48,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Fq0hVXcYeHQ"><img width="140px" src="https://i.ytimg.com/vi/Fq0hVXcYeHQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Fq0hVXcYeHQ">Sherlock full tutorial from noob to pro | #sherlock</a><br/>Mar 3, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2twOa1ajv3s"><img width="140px" src="https://i.ytimg.com/vi/2twOa1ajv3s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2twOa1ajv3s">Tr0ll 1 CTF full tutorial | #tr0ll1 #CTF #vulnhub</a><br/>Mar 1, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rVLoiDCvFVE"><img width="140px" src="https://i.ytimg.com/vi/rVLoiDCvFVE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rVLoiDCvFVE">Information gathering using Metasploit | #metasploit</a><br/>Feb 23, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mzj3SVlLwuo"><img width="140px" src="https://i.ytimg.com/vi/mzj3SVlLwuo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mzj3SVlLwuo">Zip file password crackimg using john | #john #zip2john</a><br/>Feb 22, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nxW_cnRpaSU"><img width="140px" src="https://i.ytimg.com/vi/nxW_cnRpaSU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nxW_cnRpaSU">Droopy CTF vulnhub cracked | #droopy #CTF</a><br/>Feb 21, 2022</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jGv-Tqzj8Tc"><img width="140px" src="https://i.ytimg.com/vi/jGv-Tqzj8Tc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jGv-Tqzj8Tc">Unicornscan full tutorial | #unicornscan</a><br/>Jul 15, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4VhTsaMdsTI"><img width="140px" src="https://i.ytimg.com/vi/4VhTsaMdsTI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4VhTsaMdsTI">Leviathan overthewire Full tutorial from level 0 - 8 | #overthewire</a><br/>Jul 15, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xrOwoBEGnC0"><img width="140px" src="https://i.ytimg.com/vi/xrOwoBEGnC0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xrOwoBEGnC0">OWASP ZAP Tutorial for beginners | #zap #owaspzap</a><br/>Jul 11, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=j5pfyUqQVgE"><img width="140px" src="https://i.ytimg.com/vi/j5pfyUqQVgE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=j5pfyUqQVgE">What is proxychains | How to configure it #proxychains</a><br/>Jul 5, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zbrEfwGFX2k"><img width="140px" src="https://i.ytimg.com/vi/zbrEfwGFX2k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zbrEfwGFX2k">gobuster full tutorial from noob to pro | #gobuster</a><br/>Jul 4, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
