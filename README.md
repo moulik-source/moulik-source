@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [Tr0ll2 Full Walkthrough from Vulnhub](https://techyrick.com/tr0ll2-full-walkthrough-from-vulnhub/)
-- [Sherlock Information gathering Tutorial from scratch](https://techyrick.com/sherlock-information-gathering-tutorial-from-scratch/)
-- [TR0LL: 1 CTF Full tutorial | Vulnhub](https://techyrick.com/tr0ll-1-ctf-full-tutorial-vulnhub/)
-- [Information Gathering using Metasploit](https://techyrick.com/information-gathering-using-metasploit/)
-- [TommyBoy Vulnhub CTF Challange Cracked](https://techyrick.com/tommyboy-vulnhub-ctf/)
+- [Unicorn Scan Full Tutorial From Noob to Pro](https://techyrick.com/unicorn-scan-full-tutorial-from-noob-to-pro/)
+- [OWASP ZAP Full Tutorial For Beginners](https://techyrick.com/owasp-zap-full-tutorial-for-beginners/)
+- [Leviathan Over the wire Level 0 – 7 Walkthrough](https://techyrick.com/leviathan-over-the-wire-level-0-to-7-walkthrough/)
+- [What is proxychains? How to configure it …](https://techyrick.com/what-is-proxychains-how-to-configure-it/)
+- [Gobuster full tutorial from noob to pro Updated 2022](https://techyrick.com/gobuster-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
