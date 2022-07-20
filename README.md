@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [NullByte 1 Vulnhub Full Walkthrough](https://techyrick.com/nullbyte-1-vulnhub-full-walkthrough/)
 - [SECTALKS: BNE0X03 – SIMPLE | VULNHUB Walkthrough](https://techyrick.com/sectalks-bne0x03-simple-vulnhub-walkthrough/)
 - [Unicorn Scan Full Tutorial From Noob to Pro](https://techyrick.com/unicorn-scan-full-tutorial-from-noob-to-pro/)
 - [OWASP ZAP Full Tutorial For Beginners](https://techyrick.com/owasp-zap-full-tutorial-for-beginners/)
 - [Leviathan Over the wire Level 0 – 7 Walkthrough](https://techyrick.com/leviathan-over-the-wire-level-0-to-7-walkthrough/)
-- [What is proxychains? How to configure it …](https://techyrick.com/what-is-proxychains-how-to-configure-it/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
