@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [MATRIX 1 CTF From Vulnhub Full Walkthrough](https://techyrick.com/matrix-1-ctf-from-vulnhub-full-walkthrough/)
 - [EMPIRE: BREAKOUT Full Walkthrough](https://techyrick.com/empire-breakout-full-walkthrough/)
 - [Billu-Box Full Tutorial From Vulnhub](https://techyrick.com/billu-box-full-tutorial-from-vulnhub/)
 - [Lazysysadmin: 1 Full Walkthrough From Vulnhub](https://techyrick.com/lazysysadmin-1-full-walkthrough-vulnhub/)
 - [NullByte 1 Vulnhub Full Walkthrough](https://techyrick.com/nullbyte-1-vulnhub-full-walkthrough/)
-- [SECTALKS: BNE0X03 – SIMPLE | VULNHUB Walkthrough](https://techyrick.com/sectalks-bne0x03-simple-vulnhub-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
