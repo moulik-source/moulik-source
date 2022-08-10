@@ -48,7 +48,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw?sub_confirmation=1)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XlERnwKYhgE"><img width="140px" src="https://i.ytimg.com/vi/XlERnwKYhgE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=egA7lg3pukU"><img width="140px" src="https://i.ytimg.com/vi/egA7lg3pukU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=egA7lg3pukU">Armitage full tutorial from noob to pro | #Armitage</a><br/>Aug 10, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XlERnwKYhgE"><img width="140px" src="https://i.ytimg.com/vi/XlERnwKYhgE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XlERnwKYhgE">Matrix vulnhub walkthrough Full Tutorial</a><br/>Aug 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=j2GbtLx19Ic"><img width="140px" src="https://i.ytimg.com/vi/j2GbtLx19Ic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j2GbtLx19Ic">Empire Breakout CTF challange from vulnhub</a><br/>Aug 2, 2022</td></tr></table>
@@ -56,7 +58,5 @@
 <td><a href="https://www.youtube.com/watch?v=-fsAYKktqX8">Billu box CTF from vulnhub full tutorial</a><br/>Aug 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sZm7VqVxerE"><img width="140px" src="https://i.ytimg.com/vi/sZm7VqVxerE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sZm7VqVxerE">How to run kali llinux in M1 and M2 | arm 64</a><br/>Jul 28, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=daO7bYYq7qk"><img width="140px" src="https://i.ytimg.com/vi/daO7bYYq7qk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=daO7bYYq7qk">lazysysadmin full tutorial from vulnhub</a><br/>Jul 26, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
