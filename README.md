@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Timelapse HTB &lpar;Hackthebox&rpar; Walkthrough](https://techyrick.com/timelapse-htb-hackthebox-walkthrough/)
 - [Linux File System – Explained](https://techyrick.com/linux-file-system-explained/)
 - [Armitage Full Tutorial From Noob to Pro [Updated 2022]](https://techyrick.com/armitage-full-tutorial-from-noob-to-pro/)
 - [Broken: Gallery Full Walkthrough From Vulnhub](https://techyrick.com/broken-gallery-full-walkthrough-from-vulnhub/)
 - [MATRIX 1 CTF From Vulnhub Full Walkthrough](https://techyrick.com/matrix-1-ctf-from-vulnhub-full-walkthrough/)
-- [EMPIRE: BREAKOUT Full Walkthrough](https://techyrick.com/empire-breakout-full-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
