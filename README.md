@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Commix Full Tutorial | Updated 2023](https://techyrick.com/commix-full-tutorial/)
 - [Enum4Linux Full Tutorial | Noob to Pro | 2023](https://techyrick.com/enum4linux-full-tutorial/)
 - [Timelapse HTB &lpar;Hackthebox&rpar; Walkthrough](https://techyrick.com/timelapse-htb-hackthebox-walkthrough/)
 - [Linux File System – Explained](https://techyrick.com/linux-file-system-explained/)
 - [Armitage Full Tutorial From Noob to Pro [Updated 2023]](https://techyrick.com/armitage-full-tutorial-from-noob-to-pro/)
-- [Broken: Gallery Full Walkthrough From Vulnhub](https://techyrick.com/broken-gallery-full-walkthrough-from-vulnhub/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
