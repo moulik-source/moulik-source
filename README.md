@@ -48,15 +48,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=egA7lg3pukU"><img width="140px" src="https://i.ytimg.com/vi/egA7lg3pukU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=egA7lg3pukU">Armitage full tutorial from noob to pro | #Armitage</a><br/>Aug 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XlERnwKYhgE"><img width="140px" src="https://i.ytimg.com/vi/XlERnwKYhgE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XlERnwKYhgE">Matrix vulnhub walkthrough Full Tutorial</a><br/>Aug 4, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=j2GbtLx19Ic"><img width="140px" src="https://i.ytimg.com/vi/j2GbtLx19Ic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j2GbtLx19Ic">Empire Breakout CTF challange from vulnhub</a><br/>Aug 2, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-fsAYKktqX8"><img width="140px" src="https://i.ytimg.com/vi/-fsAYKktqX8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-fsAYKktqX8">Billu box CTF from vulnhub full tutorial</a><br/>Aug 1, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sZm7VqVxerE"><img width="140px" src="https://i.ytimg.com/vi/sZm7VqVxerE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sZm7VqVxerE">How to run kali llinux in M1 and M2 | arm 64</a><br/>Jul 28, 2022</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=d2kbH1mncLQ"><img width="140px" src="https://i.ytimg.com/vi/d2kbH1mncLQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=d2kbH1mncLQ">Hydra Full Tutorial</a><br/>Dec 9, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=b74p9o8r-40"><img width="140px" src="https://i.ytimg.com/vi/b74p9o8r-40/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b74p9o8r-40">Commix Full Tutorial</a><br/>Dec 8, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Fa351izt_18"><img width="140px" src="https://i.ytimg.com/vi/Fa351izt_18/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Fa351izt_18">Decrypting ZIP/RAR using John</a><br/>Dec 8, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RiWpXBMZXHU"><img width="140px" src="https://i.ytimg.com/vi/RiWpXBMZXHU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RiWpXBMZXHU">John the Ripper Full Tutorial</a><br/>Dec 6, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WwPT6t8m9Dw"><img width="140px" src="https://i.ytimg.com/vi/WwPT6t8m9Dw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WwPT6t8m9Dw">Ncrack Full Tutorial</a><br/>Dec 6, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
