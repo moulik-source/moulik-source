@@ -48,7 +48,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wTvK4BcNpUw"><img width="140px" src="https://i.ytimg.com/vi/wTvK4BcNpUw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jdlPw8jjwvo"><img width="140px" src="https://i.ytimg.com/vi/jdlPw8jjwvo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jdlPw8jjwvo">Paros Proxy Full Tutorial</a><br/>Dec 19, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wTvK4BcNpUw"><img width="140px" src="https://i.ytimg.com/vi/wTvK4BcNpUw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wTvK4BcNpUw">Freshly Vulnhub CTF | #vulnhub</a><br/>Dec 18, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XCpYNPPWMVc"><img width="140px" src="https://i.ytimg.com/vi/XCpYNPPWMVc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XCpYNPPWMVc">Mr robot vulnhub challege full tutorial | #vulnhub</a><br/>Dec 18, 2022</td></tr></table>
@@ -56,7 +58,5 @@
 <td><a href="https://www.youtube.com/watch?v=d2kbH1mncLQ">Hydra Full Tutorial</a><br/>Dec 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b74p9o8r-40"><img width="140px" src="https://i.ytimg.com/vi/b74p9o8r-40/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b74p9o8r-40">Commix Full Tutorial</a><br/>Dec 8, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Fa351izt_18"><img width="140px" src="https://i.ytimg.com/vi/Fa351izt_18/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Fa351izt_18">Decrypting ZIP/RAR using John</a><br/>Dec 8, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
