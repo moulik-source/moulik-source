@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Cadaver Full tutorial | Update 2023](https://techyrick.com/cadaver-full-tutorial/)
 - [Paros Full Tutorial | Updated 2023](https://techyrick.com/paros-full-tutorial/)
 - [Freshly Vulnhub CTF Full Tutorial](https://techyrick.com/freshly-vulnhub-walkthrogh/)
 - [Commix Full Tutorial | Updated 2023](https://techyrick.com/commix-full-tutorial/)
 - [Enum4Linux Full Tutorial | Noob to Pro | 2023](https://techyrick.com/enum4linux-full-tutorial/)
-- [Timelapse HTB &lpar;Hackthebox&rpar; Walkthrough](https://techyrick.com/timelapse-htb-hackthebox-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
