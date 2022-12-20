@@ -48,7 +48,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=q7TwiTP6bFY"><img width="140px" src="https://i.ytimg.com/vi/q7TwiTP6bFY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Avd3XaI6KUs"><img width="140px" src="https://i.ytimg.com/vi/Avd3XaI6KUs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Avd3XaI6KUs">Leviathan overthewire</a><br/>Dec 20, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=q7TwiTP6bFY"><img width="140px" src="https://i.ytimg.com/vi/q7TwiTP6bFY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q7TwiTP6bFY">Bandit Level 5 to 10</a><br/>Dec 20, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=B9hk2_Ck0S8"><img width="140px" src="https://i.ytimg.com/vi/B9hk2_Ck0S8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B9hk2_Ck0S8">Bandit level 0 to 5</a><br/>Dec 20, 2022</td></tr></table>
@@ -56,7 +58,5 @@
 <td><a href="https://www.youtube.com/watch?v=5kI4OVuiQTA">Cadaver Full Tutorial</a><br/>Dec 20, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jdlPw8jjwvo"><img width="140px" src="https://i.ytimg.com/vi/jdlPw8jjwvo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jdlPw8jjwvo">Paros Proxy Full Tutorial</a><br/>Dec 19, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wTvK4BcNpUw"><img width="140px" src="https://i.ytimg.com/vi/wTvK4BcNpUw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wTvK4BcNpUw">Freshly Vulnhub CTF | #vulnhub</a><br/>Dec 18, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
