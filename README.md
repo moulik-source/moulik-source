@@ -48,7 +48,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=C6X1PjdKoZk"><img width="140px" src="https://i.ytimg.com/vi/C6X1PjdKoZk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3ZT5Eq1sTJk"><img width="140px" src="https://i.ytimg.com/vi/3ZT5Eq1sTJk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3ZT5Eq1sTJk">Openvas Setup | Postgresql solved</a><br/>Dec 22, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=C6X1PjdKoZk"><img width="140px" src="https://i.ytimg.com/vi/C6X1PjdKoZk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C6X1PjdKoZk">Krypton Overthewire Tutorial</a><br/>Dec 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2D3-ucTOq4w"><img width="140px" src="https://i.ytimg.com/vi/2D3-ucTOq4w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2D3-ucTOq4w">Droopy CTF | #vulnhub</a><br/>Dec 22, 2022</td></tr></table>
@@ -56,7 +58,5 @@
 <td><a href="https://www.youtube.com/watch?v=KGKIgJuIKfI">Billu box CTF from vulnhub full tutorial | #vulnhub</a><br/>Dec 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Y4nWDSxWT6Q"><img width="140px" src="https://i.ytimg.com/vi/Y4nWDSxWT6Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Y4nWDSxWT6Q">Proxychains Tutorial</a><br/>Dec 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=y4-7XCA5HrY"><img width="140px" src="https://i.ytimg.com/vi/y4-7XCA5HrY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y4-7XCA5HrY">Most Important Dir in kali for priviliege escalation</a><br/>Dec 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
