@@ -30,11 +30,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [OpenVas Full Tutorial | Update 2023](https://techyrick.com/openvas-full-tutorial/)
 - [Krypton Overthewire Full Tutorial [OTW]](https://techyrick.com/krypton-overthewire-full-tutorial/)
 - [Cadaver Full tutorial | Update 2023](https://techyrick.com/cadaver-full-tutorial/)
 - [Paros Full Tutorial | Updated 2023](https://techyrick.com/paros-full-tutorial/)
 - [Freshly Vulnhub CTF Full Tutorial](https://techyrick.com/freshly-vulnhub-walkthrogh/)
-- [Commix Full Tutorial | Updated 2023](https://techyrick.com/commix-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
