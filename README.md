@@ -48,7 +48,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v5XW-VDLo_Q"><img width="140px" src="https://i.ytimg.com/vi/v5XW-VDLo_Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WCsSfNXKDlM"><img width="140px" src="https://i.ytimg.com/vi/WCsSfNXKDlM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WCsSfNXKDlM">Openvas Exporting Result | #openvas</a><br/>Dec 26, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v5XW-VDLo_Q"><img width="140px" src="https://i.ytimg.com/vi/v5XW-VDLo_Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v5XW-VDLo_Q">Openvas Full Tutorial | #openvas</a><br/>Dec 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cyOjGCVvNbQ"><img width="140px" src="https://i.ytimg.com/vi/cyOjGCVvNbQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cyOjGCVvNbQ">Matrix walkthrough | #vulnhub</a><br/>Dec 25, 2022</td></tr></table>
@@ -56,7 +58,5 @@
 <td><a href="https://www.youtube.com/watch?v=ZMyRA33Tc24">lazysysadmin full tutorial | #vulnhub</a><br/>Dec 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tc_BYlvayQg"><img width="140px" src="https://i.ytimg.com/vi/tc_BYlvayQg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tc_BYlvayQg">Empire Breakout CTF | #vulnhub</a><br/>Dec 22, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3ZT5Eq1sTJk"><img width="140px" src="https://i.ytimg.com/vi/3ZT5Eq1sTJk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3ZT5Eq1sTJk">Openvas Setup | Postgresql solved</a><br/>Dec 22, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
