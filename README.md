@@ -7,15 +7,6 @@
 - youtube: **https://www.youtube.com/channel/UCVCzINYEgqrzToozc4dp0Bw**
 - Hacking tool blog: **http://www.techyrick.com/category/hacking-tools-download/**
 - Blog: **http://www.techyrick.com/blog/**
-
-- 🔭 I’m currently working on **Blog post**
-
-- 🌱 I’m currently learning **about some exploit tools**
-
-- 👯 I’m looking to collaborate on **with my kind of content makers**
-
-- 💬 Ask me about **anything related to hacking, linux, python etc.,**
-
 - 📫 How to reach me **http://techyrick.com/contact**
 
 
