@@ -39,7 +39,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8SZXnhCvUXc"><img width="140px" src="https://i.ytimg.com/vi/8SZXnhCvUXc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=p3M1BSttpfs"><img width="140px" src="https://i.ytimg.com/vi/p3M1BSttpfs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p3M1BSttpfs">Skipfish Full Tutorial | #skipfish</a><br/>Jan 25, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8SZXnhCvUXc"><img width="140px" src="https://i.ytimg.com/vi/8SZXnhCvUXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8SZXnhCvUXc">TiDoS Framework Tutorial | #tidos</a><br/>Jan 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1zkiACXePu8"><img width="140px" src="https://i.ytimg.com/vi/1zkiACXePu8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1zkiACXePu8">Simple Walkthrough | #vulnhub</a><br/>Dec 31, 2022</td></tr></table>
@@ -47,7 +49,5 @@
 <td><a href="https://www.youtube.com/watch?v=auAkqCzq5rs">Nullbyte full tutorial | #vulnhub</a><br/>Dec 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WCsSfNXKDlM"><img width="140px" src="https://i.ytimg.com/vi/WCsSfNXKDlM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WCsSfNXKDlM">Openvas Exporting Result | #openvas</a><br/>Dec 26, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=v5XW-VDLo_Q"><img width="140px" src="https://i.ytimg.com/vi/v5XW-VDLo_Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v5XW-VDLo_Q">Openvas Full Tutorial | #openvas</a><br/>Dec 25, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
