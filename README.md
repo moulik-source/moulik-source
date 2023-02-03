@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Wapiti Full Tutorial | Updated 2023](https://techyrick.com/wapiti-full-tutorial/)
 - [Skipfish Full Tutorial | Update 2023](https://techyrick.com/skipfish-full-tutorial/)
 - [TiDoS Framework Full Tutorial | Updated 2023](https://techyrick.com/tidos-framework-full-tutorial/)
 - [Precious HackTheBox [HTB] | Walkthrough](https://techyrick.com/precious-hackthebox-htb-walkthrough/)
 - [OpenVas Full Tutorial | Update 2023](https://techyrick.com/openvas-full-tutorial/)
-- [Krypton Overthewire Full Tutorial [OTW]](https://techyrick.com/krypton-overthewire-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
