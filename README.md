@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Photobomb HTB Walkthrough](https://techyrick.com/photobomb-htb-walkthrough/)
 - [Metatwo Hackthebox Walkthrough](https://techyrick.com/metatwo-hackthebox-walkthrough/)
 - [Wapiti Full Tutorial | Updated 2023](https://techyrick.com/wapiti-full-tutorial/)
 - [Skipfish Full Tutorial | Update 2023](https://techyrick.com/skipfish-full-tutorial/)
 - [TiDoS Framework Full Tutorial | Updated 2023](https://techyrick.com/tidos-framework-full-tutorial/)
-- [Precious HackTheBox [HTB] | Walkthrough](https://techyrick.com/precious-hackthebox-htb-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
