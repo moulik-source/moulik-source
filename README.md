@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Netcat Reverse Shell Access Tutorial | Updated 2023](https://techyrick.com/netcat-tutorial/)
 - [Msfvenom Full Tutorial | Updated 2023](https://techyrick.com/msfvenom-full-tutorial/)
 - [Photobomb HTB Walkthrough](https://techyrick.com/photobomb-htb-walkthrough/)
 - [Metatwo Hackthebox Walkthrough](https://techyrick.com/metatwo-hackthebox-walkthrough/)
 - [Wapiti Full Tutorial | Updated 2023](https://techyrick.com/wapiti-full-tutorial/)
-- [Skipfish Full Tutorial | Update 2023](https://techyrick.com/skipfish-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
