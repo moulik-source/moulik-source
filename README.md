@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands for Hackers | Part 4](https://techyrick.com/basic-linux-commands-for-hackers-part-4/)
 - [Basic Linux Commands for Hackers | Part 3](https://techyrick.com/basic-linux-commands-for-hackers-part-3/)
 - [Basic Linux Commands for Hackers | Part 2](https://techyrick.com/basic-linux-commands-for-hackers-part-2/)
 - [Basic Linux Commands for Hackers | Part 1](https://techyrick.com/basic-linux-commands-for-hackers-part-1/)
 - [Netcat Reverse Shell Access Tutorial | Updated 2023](https://techyrick.com/netcat-tutorial/)
-- [Msfvenom Full Tutorial | Updated 2023](https://techyrick.com/msfvenom-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
