@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands for Hackers | Part 5](https://techyrick.com/basic-linux-commands-for-hackers-part-5/)
 - [What is Meterpreter?](https://techyrick.com/what-is-meterpreter/)
 - [Basic Linux Commands for Hackers | Part 4](https://techyrick.com/basic-linux-commands-for-hackers-part-4/)
 - [Basic Linux Commands for Hackers | Part 3](https://techyrick.com/basic-linux-commands-for-hackers-part-3/)
 - [Basic Linux Commands for Hackers | Part 2](https://techyrick.com/basic-linux-commands-for-hackers-part-2/)
-- [Basic Linux Commands for Hackers | Part 1](https://techyrick.com/basic-linux-commands-for-hackers-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
