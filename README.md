@@ -45,9 +45,9 @@
 <td><a href="https://www.youtube.com/watch?v=hhYFv3F7tFw">Linux Commands for Hackers Part 3 &amp; Part 4</a><br/>Apr 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t9K8MEqtJdg"><img width="140px" src="https://i.ytimg.com/vi/t9K8MEqtJdg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t9K8MEqtJdg">Linux commands for Hackers | Part 1 &amp; 2</a><br/>Mar 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=J-5BcmfYJ4g"><img width="140px" src="https://i.ytimg.com/vi/J-5BcmfYJ4g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=J-5BcmfYJ4g">Photobomb HTB Walkthrough | #htb</a><br/>Feb 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t-xZ3TrJaig"><img width="140px" src="https://i.ytimg.com/vi/t-xZ3TrJaig/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t-xZ3TrJaig">Wapiti Full Tutorial | #wapiti</a><br/>Feb 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=p3M1BSttpfs"><img width="140px" src="https://i.ytimg.com/vi/p3M1BSttpfs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=p3M1BSttpfs">Skipfish Full Tutorial | #skipfish</a><br/>Jan 25, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
