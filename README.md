@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands for Hackers | Part 6](https://techyrick.com/basic-linux-commands-for-hackers-part-6/)
 - [Meow HTB Walkthrough | HacktheBox](https://techyrick.com/meow-htb-walkthrough-hackthebox/)
 - [Soccer HTB Full Walkthrough](https://techyrick.com/soccer-htb-full-walkthrough/)
 - [Basic Linux Commands for Hackers | Part 5](https://techyrick.com/basic-linux-commands-for-hackers-part-5/)
 - [What is Meterpreter?](https://techyrick.com/what-is-meterpreter/)
-- [Basic Linux Commands for Hackers | Part 4](https://techyrick.com/basic-linux-commands-for-hackers-part-4/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
