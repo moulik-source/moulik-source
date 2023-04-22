@@ -39,15 +39,15 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UyT1wHYTwUI"><img width="140px" src="https://i.ytimg.com/vi/UyT1wHYTwUI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UyT1wHYTwUI">ApeCoin [ This is GREAT News ] | Claim 500$ | Crypto Token</a><br/>Apr 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=oaAXD-qzock"><img width="140px" src="https://i.ytimg.com/vi/oaAXD-qzock/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oaAXD-qzock">APTOS token is the way to riches | CRYPTO NEWS | CLAIM 500$ IN AIRDROP</a><br/>Apr 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Sq3FXt6z0SA"><img width="140px" src="https://i.ytimg.com/vi/Sq3FXt6z0SA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Sq3FXt6z0SA">ALTURA token &lpar; ALU &rpar; Airdrop 500$ | Coin of the Future</a><br/>Apr 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mdFlRudTISI"><img width="140px" src="https://i.ytimg.com/vi/mdFlRudTISI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mdFlRudTISI"><img width="140px" src="https://i.ytimg.com/vi/mdFlRudTISI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mdFlRudTISI">Linux Commands for Hackers | Part 5</a><br/>Apr 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9g-KHTDhVb4"><img width="140px" src="https://i.ytimg.com/vi/9g-KHTDhVb4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9g-KHTDhVb4">What is Meterpreter</a><br/>Apr 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hhYFv3F7tFw"><img width="140px" src="https://i.ytimg.com/vi/hhYFv3F7tFw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hhYFv3F7tFw">Linux Commands for Hackers Part 3 &amp; Part 4</a><br/>Apr 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t9K8MEqtJdg"><img width="140px" src="https://i.ytimg.com/vi/t9K8MEqtJdg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t9K8MEqtJdg">Linux commands for Hackers | Part 1 &amp; 2</a><br/>Mar 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=J-5BcmfYJ4g"><img width="140px" src="https://i.ytimg.com/vi/J-5BcmfYJ4g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=J-5BcmfYJ4g">Photobomb HTB Walkthrough | #htb</a><br/>Feb 11, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
