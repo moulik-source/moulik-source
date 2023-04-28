@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands for Hackers | Part 7](https://techyrick.com/basic-linux-commands-for-hackers-part-7/)
 - [LoveTok – Web challenge HackTheBox | Walkthrough](https://techyrick.com/lovetok-web-challenge-hackthebox-walkthrough/)
 - [Phonebook – Web Challenge HackTheBox | Walkthrough](https://techyrick.com/phonebook-web-challenge-hackthebox-walkthrough/)
 - [Templated -Web Challenge HackTheBox Walkthrough](https://techyrick.com/templated-web-challenge-hackthebox-walkthrough/)
 - [Basic Linux Commands for Hackers | Part 6](https://techyrick.com/basic-linux-commands-for-hackers-part-6/)
-- [Meow HTB Walkthrough | HacktheBox](https://techyrick.com/meow-htb-walkthrough-hackthebox/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
