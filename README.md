@@ -39,7 +39,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zVr4HLBsm9o"><img width="140px" src="https://i.ytimg.com/vi/zVr4HLBsm9o/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mWJ20SWWvmg"><img width="140px" src="https://i.ytimg.com/vi/mWJ20SWWvmg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mWJ20SWWvmg">Wfuzz Full Tutorial</a><br/>May 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zVr4HLBsm9o"><img width="140px" src="https://i.ytimg.com/vi/zVr4HLBsm9o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zVr4HLBsm9o">Linux Commands for Hackers | Part 6 &amp; Part7</a><br/>May 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mdFlRudTISI"><img width="140px" src="https://i.ytimg.com/vi/mdFlRudTISI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mdFlRudTISI">Linux Commands for Hackers | Part 5</a><br/>Apr 5, 2023</td></tr></table>
@@ -47,7 +49,5 @@
 <td><a href="https://www.youtube.com/watch?v=9g-KHTDhVb4">What is Meterpreter</a><br/>Apr 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hhYFv3F7tFw"><img width="140px" src="https://i.ytimg.com/vi/hhYFv3F7tFw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hhYFv3F7tFw">Linux Commands for Hackers Part 3 &amp; Part 4</a><br/>Apr 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t9K8MEqtJdg"><img width="140px" src="https://i.ytimg.com/vi/t9K8MEqtJdg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t9K8MEqtJdg">Linux commands for Hackers | Part 1 &amp; 2</a><br/>Mar 27, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
