@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands for Hackers | Part 8](https://techyrick.com/basic-linux-commands-for-hackers-part-8/)
 - [Wfuzz Full Tutorial | Updated 2023](https://techyrick.com/wfuzz-full-tutorial/)
 - [MonitorsTwo HTB Walkthrough](https://techyrick.com/monitorstwo-htb-walkthrough/)
 - [Toxic Web Challenge Walkthrough |HackTheBox](https://techyrick.com/toxic-web-challenge-walkthrough-hackthebox/)
 - [Basic Linux Commands for Hackers | Part 7](https://techyrick.com/basic-linux-commands-for-hackers-part-7/)
-- [LoveTok – Web challenge HackTheBox | Walkthrough](https://techyrick.com/lovetok-web-challenge-hackthebox-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
