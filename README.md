@@ -24,7 +24,7 @@
 - [Protected: Snoopy HTB Walkthrough](https://techyrick.com/snoopy-htb-walkthrough/)
 - [Basic Linux Commands for Hackers | Part 8](https://techyrick.com/basic-linux-commands-for-hackers-part-8/)
 - [Wfuzz Full Tutorial | Updated 2023](https://techyrick.com/wfuzz-full-tutorial/)
-- [MonitorsTwo HTB Walkthrough](https://techyrick.com/monitorstwo-htb-walkthrough/)
+- [Protected: MonitorsTwo HTB Walkthrough](https://techyrick.com/monitorstwo-htb-walkthrough/)
 - [Toxic Web Challenge Walkthrough |HackTheBox](https://techyrick.com/toxic-web-challenge-walkthrough-hackthebox/)
 <!-- BLOG-POST-LIST:END -->
 
