@@ -39,7 +39,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cFNbKFPkBOQ"><img width="140px" src="https://i.ytimg.com/vi/cFNbKFPkBOQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ld5vDGGRp6U"><img width="140px" src="https://i.ytimg.com/vi/ld5vDGGRp6U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ld5vDGGRp6U">Linux Commands for Hackers | Part 8 &amp; 9</a><br/>May 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cFNbKFPkBOQ"><img width="140px" src="https://i.ytimg.com/vi/cFNbKFPkBOQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cFNbKFPkBOQ">Nmap Scripting Engine</a><br/>May 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mWJ20SWWvmg"><img width="140px" src="https://i.ytimg.com/vi/mWJ20SWWvmg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mWJ20SWWvmg">Wfuzz Full Tutorial</a><br/>May 10, 2023</td></tr></table>
@@ -47,7 +49,5 @@
 <td><a href="https://www.youtube.com/watch?v=zVr4HLBsm9o">Linux Commands for Hackers | Part 6 &amp; Part7</a><br/>May 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mdFlRudTISI"><img width="140px" src="https://i.ytimg.com/vi/mdFlRudTISI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mdFlRudTISI">Linux Commands for Hackers | Part 5</a><br/>Apr 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9g-KHTDhVb4"><img width="140px" src="https://i.ytimg.com/vi/9g-KHTDhVb4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9g-KHTDhVb4">What is Meterpreter</a><br/>Apr 5, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
