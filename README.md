@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Basic Linux Commands for Hackers | Part 10](https://techyrick.com/basic-linux-commands-for-hackers-part-10/)
 - [Protected: Format HTB Walkthrough](https://techyrick.com/format-htb-walkthrough/)
 - [Basic Linux Commands for Hackers | Part 9](https://techyrick.com/basic-linux-commands-for-hackers-part-8-2/)
 - [Nmap Scripting Engine &lpar;NSE&rpar; – Explained](https://techyrick.com/nmap-scripts-explained/)
 - [Protected: Snoopy HTB Walkthrough](https://techyrick.com/snoopy-htb-walkthrough/)
-- [Basic Linux Commands for Hackers | Part 8](https://techyrick.com/basic-linux-commands-for-hackers-part-8/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
