@@ -39,7 +39,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sxP_hMBlOEk"><img width="140px" src="https://i.ytimg.com/vi/sxP_hMBlOEk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6LMznYZdofo"><img width="140px" src="https://i.ytimg.com/vi/6LMznYZdofo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6LMznYZdofo">Linux Commands for Hackers | Part 10 &amp; 11</a><br/>May 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sxP_hMBlOEk"><img width="140px" src="https://i.ytimg.com/vi/sxP_hMBlOEk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sxP_hMBlOEk">Metatwo HTB</a><br/>May 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ld5vDGGRp6U"><img width="140px" src="https://i.ytimg.com/vi/ld5vDGGRp6U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ld5vDGGRp6U">Linux Commands for Hackers | Part 8 &amp; 9</a><br/>May 14, 2023</td></tr></table>
@@ -47,7 +49,5 @@
 <td><a href="https://www.youtube.com/watch?v=cFNbKFPkBOQ">Nmap Scripting Engine</a><br/>May 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mWJ20SWWvmg"><img width="140px" src="https://i.ytimg.com/vi/mWJ20SWWvmg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mWJ20SWWvmg">Wfuzz Full Tutorial</a><br/>May 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zVr4HLBsm9o"><img width="140px" src="https://i.ytimg.com/vi/zVr4HLBsm9o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zVr4HLBsm9o">Linux Commands for Hackers | Part 6 &amp; Part7</a><br/>May 9, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
