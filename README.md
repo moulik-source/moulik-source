@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Protected: PC HTB Walkthrough](https://techyrick.com/pc-htb-walkthrough/)
 - [Naabu Full Tutorial | Updated 2023](https://techyrick.com/naabu-full-tutorial/)
 - [Basic Linux Commands for Hackers | Part 11](https://techyrick.com/basic-linux-commands-for-hackers-part-11/)
 - [Basic Linux Commands for Hackers | Part 10](https://techyrick.com/basic-linux-commands-for-hackers-part-10/)
 - [Protected: Format HTB Walkthrough](https://techyrick.com/format-htb-walkthrough/)
-- [Basic Linux Commands for Hackers | Part 9](https://techyrick.com/basic-linux-commands-for-hackers-part-8-2/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
