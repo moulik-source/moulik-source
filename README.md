@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Indian Hackers | Updated 2023](https://techyrick.com/top-5-indian-hackers/)
+- [Print Function Explained | Python Basics Part 1](https://techyrick.com/print-function-explained-python/)
 - [Vulnhub Bsides Vancouver 2018 walkthrough](https://techyrick.com/bsides-vancouver-2018-vulnhub-walkthrough/)
 - [RickdiculouslyEasy Vulnhub Walkthrough](https://techyrick.com/rickdiculouslyeasy-vulnhub-walkthrough/)
 - [Subfinder Full Tutorial | Updated 2023](https://techyrick.com/subfinder-full-tutorial/)
-- [Protected: PC HTB Walkthrough](https://techyrick.com/pc-htb-walkthrough/)
-- [Naabu Full Tutorial | Updated 2023](https://techyrick.com/naabu-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
