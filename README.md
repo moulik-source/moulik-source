@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Vulnhub Bsides Vancouver 2018 walkthrough](https://techyrick.com/bsides-vancouver-2018-vulnhub-walkthrough/)
 - [RickdiculouslyEasy Vulnhub Walkthrough](https://techyrick.com/rickdiculouslyeasy-vulnhub-walkthrough/)
 - [Subfinder Full Tutorial | Updated 2023](https://techyrick.com/subfinder-full-tutorial/)
 - [Protected: PC HTB Walkthrough](https://techyrick.com/pc-htb-walkthrough/)
 - [Naabu Full Tutorial | Updated 2023](https://techyrick.com/naabu-full-tutorial/)
-- [Basic Linux Commands for Hackers | Part 11](https://techyrick.com/basic-linux-commands-for-hackers-part-11/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
