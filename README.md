@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Protected: Bookworm HTB Walkthrough](https://techyrick.com/bookworm-htb-walkthrough/)
 - [Lampiao 1 VulnHub Walkthrough](https://techyrick.com/lampiao-1-vulnhub-walkthrough/)
 - [Everything in Python is an Object Except these | Part 2](https://techyrick.com/what-is-object-in-python/)
 - [TOPPO: 1 VulnHub Walkthrough](https://techyrick.com/toppo-1-vulnhub-walkthrough/)
 - [Top 5 Indian Hackers | Updated 2023](https://techyrick.com/top-5-indian-hackers/)
-- [Print Function Explained | Python Basics Part 1](https://techyrick.com/print-function-explained-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
