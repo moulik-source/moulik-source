@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Evil-WinRM Full Tutorial | Updated 2023](https://techyrick.com/evil-winrm-full-tutorial-updated-2023/)
 - [Chisel Full Tutorial | Updated 2023](https://techyrick.com/chisel-full-tutorial/)
 - [HTML Injection in a Web Page Form With possible XSS.](https://techyrick.com/html-injection-in-a-web-page-form-with-possible-xss/)
 - [Protected: Bookworm HTB Walkthrough](https://techyrick.com/bookworm-htb-walkthrough/)
 - [Lampiao 1 VulnHub Walkthrough](https://techyrick.com/lampiao-1-vulnhub-walkthrough/)
-- [Everything in Python is an Object Except these | Part 2](https://techyrick.com/what-is-object-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
