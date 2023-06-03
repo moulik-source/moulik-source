@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Assigning and Reassigning Types in Python | Part 4](https://techyrick.com/assigning-and-reassigning-types-in-python-part-4/)
 - [Variables in Python | Part 3](https://techyrick.com/variables-in-python/)
 - [Evil-WinRM Full Tutorial | Updated 2023](https://techyrick.com/evil-winrm-full-tutorial/)
 - [Chisel Full Tutorial | Updated 2023](https://techyrick.com/chisel-full-tutorial/)
 - [HTML Injection in a Web Page Form With possible XSS.](https://techyrick.com/html-injection-in-a-web-page-form-with-possible-xss/)
-- [Protected: Bookworm HTB Walkthrough](https://techyrick.com/bookworm-htb-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
