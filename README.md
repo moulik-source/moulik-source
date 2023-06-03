@@ -39,7 +39,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=t1_vE4QB7_4"><img width="140px" src="https://i.ytimg.com/vi/t1_vE4QB7_4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_ieSUm-CvWA"><img width="140px" src="https://i.ytimg.com/vi/_ieSUm-CvWA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_ieSUm-CvWA">EviL-winRM Full Tutorial</a><br/>Jun 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t1_vE4QB7_4"><img width="140px" src="https://i.ytimg.com/vi/t1_vE4QB7_4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t1_vE4QB7_4">Chisel Full Tutorial</a><br/>Jun 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CRv_zhkm6q0"><img width="140px" src="https://i.ytimg.com/vi/CRv_zhkm6q0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CRv_zhkm6q0">Lampaiao 1 VulnHub Walkthrough</a><br/>May 29, 2023</td></tr></table>
@@ -47,7 +49,5 @@
 <td><a href="https://www.youtube.com/watch?v=w56CcL3ooyg">What is object and not an object in python</a><br/>May 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WkioKVbX6aQ"><img width="140px" src="https://i.ytimg.com/vi/WkioKVbX6aQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WkioKVbX6aQ">TOPPO 1 VulnHub Walkthrough</a><br/>May 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QQeY8XuN0Ns"><img width="140px" src="https://i.ytimg.com/vi/QQeY8XuN0Ns/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QQeY8XuN0Ns">Print Function Python</a><br/>May 25, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
