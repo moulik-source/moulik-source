@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Protected: Jupiter – HTB Walkthrough](https://techyrick.com/jupiter-htb-walkthrough/)
 - [Hashcat Full Tutorial | Updated 2023](https://techyrick.com/hashcat-full-tutorial/)
 - [Assigning and Reassigning Types in Python | Part 4](https://techyrick.com/assigning-and-reassigning-types-in-python-part-4/)
 - [Variables in Python | Part 3](https://techyrick.com/variables-in-python/)
 - [Evil-WinRM Full Tutorial | Updated 2023](https://techyrick.com/evil-winrm-full-tutorial/)
-- [Chisel Full Tutorial | Updated 2023](https://techyrick.com/chisel-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
