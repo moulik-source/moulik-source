@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Protected: Topology HTB Walkthrough](https://techyrick.com/topology-htb-walkthrough/)
 - [HTTPX Full Tutorial | Updated 2023](https://techyrick.com/httpx-full-tutorial/)
 - [Clickjacking using simple HTML script](https://techyrick.com/clickjacking-using-simple-html-script/)
 - [Protected: Jupiter – HTB Walkthrough](https://techyrick.com/jupiter-htb-walkthrough/)
 - [Hashcat Full Tutorial | Updated 2023](https://techyrick.com/hashcat-full-tutorial/)
-- [Assigning and Reassigning Types in Python | Part 4](https://techyrick.com/assigning-and-reassigning-types-in-python-part-4/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
