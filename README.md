@@ -21,11 +21,11 @@
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [TYPHOON: 1.02 VulnHub Walkthrough](https://techyrick.com/typhoon-1-02-vulnhub-walkthrough/)
 - [Protected: Topology HTB Walkthrough](https://techyrick.com/topology-htb-walkthrough/)
 - [HTTPX Full Tutorial | Updated 2023](https://techyrick.com/httpx-full-tutorial/)
 - [Clickjacking using simple HTML script](https://techyrick.com/clickjacking-using-simple-html-script/)
 - [Protected: Jupiter – HTB Walkthrough](https://techyrick.com/jupiter-htb-walkthrough/)
-- [Hashcat Full Tutorial | Updated 2023](https://techyrick.com/hashcat-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
