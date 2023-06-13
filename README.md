@@ -39,7 +39,9 @@
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Gfe5I7EdhG8"><img width="140px" src="https://i.ytimg.com/vi/Gfe5I7EdhG8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4bA3DYfoFaw"><img width="140px" src="https://i.ytimg.com/vi/4bA3DYfoFaw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4bA3DYfoFaw">Typhoon 1 02 VulnHub Walkthrough</a><br/>Jun 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Gfe5I7EdhG8"><img width="140px" src="https://i.ytimg.com/vi/Gfe5I7EdhG8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Gfe5I7EdhG8">Httpx Full Tutorial</a><br/>Jun 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jVJnCX1U_BA"><img width="140px" src="https://i.ytimg.com/vi/jVJnCX1U_BA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jVJnCX1U_BA">Linux Full Tutorial</a><br/>Jun 5, 2023</td></tr></table>
@@ -47,7 +49,5 @@
 <td><a href="https://www.youtube.com/watch?v=_ieSUm-CvWA">EviL-winRM Full Tutorial</a><br/>Jun 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t1_vE4QB7_4"><img width="140px" src="https://i.ytimg.com/vi/t1_vE4QB7_4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t1_vE4QB7_4">Chisel Full Tutorial</a><br/>Jun 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CRv_zhkm6q0"><img width="140px" src="https://i.ytimg.com/vi/CRv_zhkm6q0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CRv_zhkm6q0">Lampaiao 1 VulnHub Walkthrough</a><br/>May 29, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
