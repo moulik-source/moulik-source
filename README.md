@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulik-source&label=Profile%20views&color=0e75b6&style=flat" alt="moulik-source" /> </p> 
 
-## HTB RANK
+## HTB Rank
 
 https://app.hackthebox.com/profile/692115
 - Top 10 in India
