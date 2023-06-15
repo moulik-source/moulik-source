@@ -29,7 +29,7 @@ https://app.hackthebox.com/profile/692115
 <!-- BLOG-POST-LIST:START -->
 - [DC1 VulnHub Walkthrough](https://techyrick.com/dc1-vulnhub-walkthrough/)
 - [TYPHOON: 1.02 VulnHub Walkthrough](https://techyrick.com/typhoon-1-02-vulnhub-walkthrough/)
-- [Protected: Topology HTB Walkthrough](https://techyrick.com/topology-htb-walkthrough/)
+- [Topology HTB Walkthrough](https://techyrick.com/topology-htb-walkthrough/)
 - [HTTPX Full Tutorial | Updated 2023](https://techyrick.com/httpx-full-tutorial/)
 - [Clickjacking using simple HTML script](https://techyrick.com/clickjacking-using-simple-html-script/)
 <!-- BLOG-POST-LIST:END -->
