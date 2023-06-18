@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Protected: SandWorm HTB Walkthrough](https://techyrick.com/sandworm-htb-walkthrough/)
 - [Nuclei Full Tutorial | Updated [ 2023 ]](https://techyrick.com/nuclei-full-tutorial/)
 - [DC1 VulnHub Walkthrough](https://techyrick.com/dc1-vulnhub-walkthrough/)
 - [TYPHOON: 1.02 VulnHub Walkthrough](https://techyrick.com/typhoon-1-02-vulnhub-walkthrough/)
 - [Protected: Topology HTB Walkthrough](https://techyrick.com/topology-htb-walkthrough/)
-- [HTTPX Full Tutorial | Updated 2023](https://techyrick.com/httpx-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
