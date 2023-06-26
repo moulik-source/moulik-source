@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fwTuHj3PmAc"><img width="140px" src="https://i.ytimg.com/vi/fwTuHj3PmAc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UpmXWPz-J-w"><img width="140px" src="https://i.ytimg.com/vi/UpmXWPz-J-w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UpmXWPz-J-w">Responder Full Tutorial</a><br/>Jun 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fwTuHj3PmAc"><img width="140px" src="https://i.ytimg.com/vi/fwTuHj3PmAc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fwTuHj3PmAc">Maltego Full Tutorial</a><br/>Jun 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cvsc-S4D1xA"><img width="140px" src="https://i.ytimg.com/vi/cvsc-S4D1xA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cvsc-S4D1xA">PSPY Full Tutorial</a><br/>Jun 20, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=aQmC0FvoIQ8">Nuclei Full Tutorial</a><br/>Jun 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cNhFW27fhkM"><img width="140px" src="https://i.ytimg.com/vi/cNhFW27fhkM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cNhFW27fhkM">DC 1 VulnHub Walkthrough</a><br/>Jun 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4bA3DYfoFaw"><img width="140px" src="https://i.ytimg.com/vi/4bA3DYfoFaw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4bA3DYfoFaw">Typhoon 1 02 VulnHub Walkthrough</a><br/>Jun 13, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
