@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [Automating SQLi with SQLmap and custom code.](https://techyrick.com/automating-sqli-with-sqlmap-and-custom-code/)
-- [Responder Full Tutorial | Updated 2023](https://techyrick.com/responder-full-tutorial/)
-- [Protected: Pilgrimage Walkthrough | Hackthebox](https://techyrick.com/pilgrimage-walkthrough-htb/)
+- [Protected: Pilgrimage Walkthrough](https://techyrick.com/pilgrimage-walkthrough/)
 - [Maltego Full Tutorial | Updated 2023](https://techyrick.com/maltego-full-tutorial/)
 - [About Proxy?](https://techyrick.com/about-proxy/)
+- [Protected: SandWorm HTB Walkthrough](https://techyrick.com/sandworm-htb-walkthrough/)
+- [Nuclei Full Tutorial | Updated [ 2023 ]](https://techyrick.com/nuclei-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
