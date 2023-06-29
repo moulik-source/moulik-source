@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Protected: Pilgrimage Walkthrough](https://techyrick.com/pilgrimage-walkthrough/)
 - [Maltego Full Tutorial | Updated 2023](https://techyrick.com/maltego-full-tutorial/)
 - [About Proxy?](https://techyrick.com/about-proxy/)
 - [Protected: SandWorm HTB Walkthrough](https://techyrick.com/sandworm-htb-walkthrough/)
 - [Nuclei Full Tutorial | Updated [ 2023 ]](https://techyrick.com/nuclei-full-tutorial/)
-- [DC1 VulnHub Walkthrough](https://techyrick.com/dc1-vulnhub-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
