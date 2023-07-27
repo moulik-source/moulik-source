@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [Protected: Sau HTB Writeup](https://techyrick.com/sau-htb-writeup/)
 - [Protected: Intentions HTB Writeup](https://techyrick.com/intentions-htb-writeup/)
 - [Amass Full Tutorial | Updated 2023](https://techyrick.com/amass-full-tutorial/)
 - [Automating SQLi with SQLmap and custom code.](https://techyrick.com/automating-sqli-with-sqlmap-and-custom-code/)
 - [Responder Full Tutorial | Updated 2023](https://techyrick.com/responder-full-tutorial/)
+- [Protected: Pilgrimage Walkthrough | Hackthebox](https://techyrick.com/pilgrimage-walkthrough-htb/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
