@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Secrets: The Ultimate Steghide Full Tutorial to Safeguard Your Data!](https://techyrick.com/steghide-full-tutorial/)
 - [Mastering Ghidra: Your Ultimate Tool for Reverse Engineering Success](https://techyrick.com/ghidra/)
 - [Sau HTB Writeup](https://techyrick.com/sau-htb-writeup/)
 - [Intentions HTB Writeup](https://techyrick.com/intentions-htb-writeup/)
 - [Amass Full Tutorial | Updated 2023](https://techyrick.com/amass-full-tutorial/)
-- [Automating SQLi with SQLmap and custom code.](https://techyrick.com/automating-sqli-with-sqlmap-and-custom-code/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
