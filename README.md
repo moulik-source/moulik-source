@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3UD53di_taM"><img width="140px" src="https://i.ytimg.com/vi/3UD53di_taM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=paQDvqNhxnw"><img width="140px" src="https://i.ytimg.com/vi/paQDvqNhxnw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=paQDvqNhxnw">Best OS for Hacking | 2023</a><br/>Sep 1, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3UD53di_taM"><img width="140px" src="https://i.ytimg.com/vi/3UD53di_taM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3UD53di_taM">Decrypting HTTPS Traffic Using Wireshark</a><br/>Aug 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UXtGTI2HBHk"><img width="140px" src="https://i.ytimg.com/vi/UXtGTI2HBHk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UXtGTI2HBHk">How to keep Your Wordpress Site Safe From Hackers</a><br/>Aug 17, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=uQs6xUkSN3M">Steghide Full Tutorial</a><br/>Aug 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EonShzcFB_I"><img width="140px" src="https://i.ytimg.com/vi/EonShzcFB_I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EonShzcFB_I">Ghidra Full Tutorial</a><br/>Jul 24, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Uz5UroyS8KA"><img width="140px" src="https://i.ytimg.com/vi/Uz5UroyS8KA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Uz5UroyS8KA">Amass Information Gathering</a><br/>Jul 3, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
