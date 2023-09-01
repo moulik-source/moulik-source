@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Finding the Best Hacking OS](https://techyrick.com/best-hacking-os/)
 - [How to Decrypt HTTPS Traffics With Wireshark](https://techyrick.com/how-to-decrypt-https-traffic-using-wireshark/)
 - [Keeper HTB Walkthrough](https://techyrick.com/keeper-htb-walkthrough/)
 - [Unlocking Secrets: The Ultimate Steghide Full Tutorial to Safeguard Your Data!](https://techyrick.com/steghide-full-tutorial/)
 - [Mastering Ghidra: Your Ultimate Tool for Reverse Engineering Success](https://techyrick.com/ghidra/)
-- [Sau HTB Writeup](https://techyrick.com/sau-htb-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
