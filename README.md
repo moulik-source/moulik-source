@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [CozyHosting HTB Walkthrough](https://techyrick.com/cozyhosting-htb-walkthrough/)
 - [Zipping HTB Writeup | Full Walkthrough](https://techyrick.com/zipping-htb-writeup-full-walkthrough/)
 - [The Ultimate Guide to Finding the Best Hacking OS](https://techyrick.com/best-hacking-os/)
 - [How to Decrypt HTTPS Traffics With Wireshark](https://techyrick.com/how-to-decrypt-https-traffic-using-wireshark/)
 - [Keeper HTB Walkthrough](https://techyrick.com/keeper-htb-walkthrough/)
-- [Unlocking Secrets: The Ultimate Steghide Full Tutorial to Safeguard Your Data!](https://techyrick.com/steghide-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
