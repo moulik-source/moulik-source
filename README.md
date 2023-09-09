@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [SQL Injection Payloads Full Guide | Updated 2023](https://techyrick.com/sql-injection-payload-tutorial/)
 - [Laudanum Full Tutorial | Updated 2023](https://techyrick.com/laudanum-full-tutorial/)
 - [Reaver Wifi Hacking : The Ultimate Guide | Updated 2023](https://techyrick.com/reaver-full-tutorial/)
 - [CozyHosting HTB Walkthrough](https://techyrick.com/cozyhosting-htb-walkthrough/)
 - [Zipping HTB Writeup | Full Walkthrough](https://techyrick.com/zipping-htb-writeup-full-walkthrough/)
-- [The Ultimate Guide to Finding the Best Hacking OS](https://techyrick.com/best-hacking-os/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
