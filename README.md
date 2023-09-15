@@ -45,15 +45,15 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=J2ZaxiS3bDc"><img width="140px" src="https://i.ytimg.com/vi/J2ZaxiS3bDc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UO1RZ-tEI88"><img width="140px" src="https://i.ytimg.com/vi/UO1RZ-tEI88/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UO1RZ-tEI88">Phishing emails  #coding #computerscience #technology  #hacker #software #hacking</a><br/>Sep 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iCscx85J65o"><img width="140px" src="https://i.ytimg.com/vi/iCscx85J65o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iCscx85J65o">Real Life Cyber Threat Costs #coding #hacker #hacking #cybersecurity #cyberattack #coding  #tech</a><br/>Sep 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GuiEtjwef2U"><img width="140px" src="https://i.ytimg.com/vi/GuiEtjwef2U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GuiEtjwef2U">All in One Hacking Tool  #coding #technology #computerscience #hacker #hacking #metasploit</a><br/>Sep 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=J2ZaxiS3bDc"><img width="140px" src="https://i.ytimg.com/vi/J2ZaxiS3bDc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J2ZaxiS3bDc">Did You Know | # #coding #computerscience #technology #reverseengineering  #softwareengineering</a><br/>Sep 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5slq27Ne-y0"><img width="140px" src="https://i.ytimg.com/vi/5slq27Ne-y0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5slq27Ne-y0">Laudanum Full Tutorial | #laudanum</a><br/>Sep 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9Gns1cehCOc"><img width="140px" src="https://i.ytimg.com/vi/9Gns1cehCOc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9Gns1cehCOc">Reaver Full Tutorial | #Reaver</a><br/>Sep 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=paQDvqNhxnw"><img width="140px" src="https://i.ytimg.com/vi/paQDvqNhxnw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=paQDvqNhxnw">Best OS for Hacking | 2023</a><br/>Sep 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3UD53di_taM"><img width="140px" src="https://i.ytimg.com/vi/3UD53di_taM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3UD53di_taM">Decrypting HTTPS Traffic Using Wireshark</a><br/>Aug 29, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
