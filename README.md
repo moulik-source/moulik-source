@@ -45,15 +45,15 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qF5Gg-4rW-g"><img width="140px" src="https://i.ytimg.com/vi/qF5Gg-4rW-g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=II8FLLs-Zpo"><img width="140px" src="https://i.ytimg.com/vi/II8FLLs-Zpo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=II8FLLs-Zpo">IoT Vulnerability |  #coding #technology #computerscience #hacker #software #hacking</a><br/>Sep 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=N7cvcVTXavc"><img width="140px" src="https://i.ytimg.com/vi/N7cvcVTXavc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N7cvcVTXavc">Real Life Cyber Threats |  #coding #computerscience #technology #hacker #hacking  #software</a><br/>Sep 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qF5Gg-4rW-g"><img width="140px" src="https://i.ytimg.com/vi/qF5Gg-4rW-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qF5Gg-4rW-g">Cyber Attack |  #coding #computerscience #technology #hacker #hacking #ai #chatgpt</a><br/>Sep 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eCo7woypVUk"><img width="140px" src="https://i.ytimg.com/vi/eCo7woypVUk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eCo7woypVUk">Did You Know  |  #coding #computerscience #technology #hacker#hacking  #software</a><br/>Sep 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=olIlXxWs6rk"><img width="140px" src="https://i.ytimg.com/vi/olIlXxWs6rk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=olIlXxWs6rk">Data Encryption |  #coding #computerscience #technology #hacker #software #softwareengineering</a><br/>Sep 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=v-4WWLsxa9E"><img width="140px" src="https://i.ytimg.com/vi/v-4WWLsxa9E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v-4WWLsxa9E">Insider Threat |  #coding #computerscience #technology #hacker #software#hacking #tutorial</a><br/>Sep 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AeAPX2uG7KA"><img width="140px" src="https://i.ytimg.com/vi/AeAPX2uG7KA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AeAPX2uG7KA">Password Strength  #coding #computerscience #technology #hacker #software #hackinginhindi</a><br/>Sep 16, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
