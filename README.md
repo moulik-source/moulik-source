@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cEHJfKoy108"><img width="140px" src="https://i.ytimg.com/vi/cEHJfKoy108/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e55DpMW03RU"><img width="140px" src="https://i.ytimg.com/vi/e55DpMW03RU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e55DpMW03RU">Data Breach |  #fact #hacker #computerscience #iphone #apple #softwareengineering</a><br/>Sep 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cEHJfKoy108"><img width="140px" src="https://i.ytimg.com/vi/cEHJfKoy108/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cEHJfKoy108">Biometric Authentication |  #fact #hacker #computerscience #iphone #apple #reverseengineering #tech</a><br/>Sep 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=q1yEJBqLzVw"><img width="140px" src="https://i.ytimg.com/vi/q1yEJBqLzVw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q1yEJBqLzVw">Cyber Insurance |  #fact #hacker #iphone #reverseengineering #computerscience #apple</a><br/>Sep 18, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=K5CTOn8o_kI">Online Shopping Risk |  #fact #computerscience #hacker #iphone #apple #softwareengineering</a><br/>Sep 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ia8G4VjvDCw"><img width="140px" src="https://i.ytimg.com/vi/Ia8G4VjvDCw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ia8G4VjvDCw">Government Hacking |  #coding #technology #hacking #hacker #hackerfreefire #cybersecurity</a><br/>Sep 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KyNCJM2hMVg"><img width="140px" src="https://i.ytimg.com/vi/KyNCJM2hMVg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KyNCJM2hMVg">The hidden risks of mobile devices exposed |  #coding #computerscience #technology #hacker #hacking</a><br/>Sep 17, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
