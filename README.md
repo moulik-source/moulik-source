@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gZfIIuui1Jk"><img width="140px" src="https://i.ytimg.com/vi/gZfIIuui1Jk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iuqeNgY58ss"><img width="140px" src="https://i.ytimg.com/vi/iuqeNgY58ss/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iuqeNgY58ss">Cybersecurity Awareness</a><br/>Sep 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gZfIIuui1Jk"><img width="140px" src="https://i.ytimg.com/vi/gZfIIuui1Jk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gZfIIuui1Jk">Internet of Things |  #hacker #fact #computerscience #iphone #reverseengineering #apple #software</a><br/>Sep 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7rlQUrgHBbg"><img width="140px" src="https://i.ytimg.com/vi/7rlQUrgHBbg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7rlQUrgHBbg">Hacktivism |  #hacker #fact #computerscience #iphone #apple #reverseengineering #technology</a><br/>Sep 18, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=e55DpMW03RU">Data Breach |  #fact #hacker #computerscience #iphone #apple #softwareengineering</a><br/>Sep 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cEHJfKoy108"><img width="140px" src="https://i.ytimg.com/vi/cEHJfKoy108/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cEHJfKoy108">Biometric Authentication |  #fact #hacker #computerscience #iphone #apple #reverseengineering #tech</a><br/>Sep 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=q1yEJBqLzVw"><img width="140px" src="https://i.ytimg.com/vi/q1yEJBqLzVw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=q1yEJBqLzVw">Cyber Insurance |  #fact #hacker #iphone #reverseengineering #computerscience #apple</a><br/>Sep 18, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
