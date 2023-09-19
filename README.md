@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=r0n5Q4Jv21E"><img width="140px" src="https://i.ytimg.com/vi/r0n5Q4Jv21E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xB3f3Iyfa9E"><img width="140px" src="https://i.ytimg.com/vi/xB3f3Iyfa9E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xB3f3Iyfa9E">Mobile Malware |  #hacker #fact #computerhacking #computerscience #iphone #hackingattack</a><br/>Sep 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=r0n5Q4Jv21E"><img width="140px" src="https://i.ytimg.com/vi/r0n5Q4Jv21E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=r0n5Q4Jv21E">Hacking Movies |  #hacker #fact #computerscience #iphone #reverseengineering #apple #technology</a><br/>Sep 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LFPNfdnJ-n4"><img width="140px" src="https://i.ytimg.com/vi/LFPNfdnJ-n4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LFPNfdnJ-n4">Darknet Markets |  #fact #hacker #computerscience #iphone #reverseengineering #apple #technology</a><br/>Sep 19, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=cnTjRJBhr1s">Cyber Warfare |  #fact #hacker #computerscience #iphone #apple #reverseengineering #technology</a><br/>Sep 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Qi9z5EestEM"><img width="140px" src="https://i.ytimg.com/vi/Qi9z5EestEM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qi9z5EestEM">Two Factor Authentication |  #hacker #fact #computerscience #iphone #reverseengineering #apple</a><br/>Sep 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AIgk8awJdtQ"><img width="140px" src="https://i.ytimg.com/vi/AIgk8awJdtQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AIgk8awJdtQ">Fcrackzip Full Tutorial | #fcrackzip</a><br/>Sep 18, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
