@@ -45,15 +45,15 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qqEEtCjtJuM"><img width="140px" src="https://i.ytimg.com/vi/qqEEtCjtJuM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PT-I5EdgkEY"><img width="140px" src="https://i.ytimg.com/vi/PT-I5EdgkEY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PT-I5EdgkEY">Cyber Hygiene |  #hacker #fact #computerhacking #computerscience #iphone #hackingattack #coding</a><br/>Sep 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UB1paA2BXPY"><img width="140px" src="https://i.ytimg.com/vi/UB1paA2BXPY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UB1paA2BXPY">Deepfake Threats |  #hacker #fact #computerhacking #computerscience #iphone #hackingattack</a><br/>Sep 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qqEEtCjtJuM"><img width="140px" src="https://i.ytimg.com/vi/qqEEtCjtJuM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qqEEtCjtJuM">Cybersecurity Training |  #hacker #fact #computerhacking #computerscience #iphone #hackingattack</a><br/>Sep 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vhW-jhJaX6U"><img width="140px" src="https://i.ytimg.com/vi/vhW-jhJaX6U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vhW-jhJaX6U">IoT Security |  #hacker #fact #computerhacking #computerscience #iphone #hackingattack #technology</a><br/>Sep 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ozIP_wVaJpM"><img width="140px" src="https://i.ytimg.com/vi/ozIP_wVaJpM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ozIP_wVaJpM">Angry IP Full Tutorial | #Angryip</a><br/>Sep 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8JGdf5jxcU4"><img width="140px" src="https://i.ytimg.com/vi/8JGdf5jxcU4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8JGdf5jxcU4">Black Buntu OS | My Honest Opinion</a><br/>Sep 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bo1WQrgY-O8"><img width="140px" src="https://i.ytimg.com/vi/bo1WQrgY-O8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bo1WQrgY-O8">Data Privacy Regulations |  #hacker #fact #computerhacking #computerscience #iphone #hackingattack</a><br/>Sep 19, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
