@@ -45,15 +45,15 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ajxfOtPiiiM"><img width="140px" src="https://i.ytimg.com/vi/ajxfOtPiiiM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g5wDqWiqSVk"><img width="140px" src="https://i.ytimg.com/vi/g5wDqWiqSVk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g5wDqWiqSVk">VPN |  #hacker #fact #computerhacking #computerscience #hackingattack #reverseengineering #tech</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IVnb2kIdTkk"><img width="140px" src="https://i.ytimg.com/vi/IVnb2kIdTkk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IVnb2kIdTkk">Cybersecurity Education |  #hacker #fact #computerhacking #computerscience #hackingattack #tech</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ajxfOtPiiiM"><img width="140px" src="https://i.ytimg.com/vi/ajxfOtPiiiM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ajxfOtPiiiM">Social Media Risk |  #hacker #fact #computerhacking #computerscience #hackingattack #motivation</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Kc3C8IY1r1A"><img width="140px" src="https://i.ytimg.com/vi/Kc3C8IY1r1A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Kc3C8IY1r1A">SMBMap Full Tutorial | #smbmap</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZKThahHbomE"><img width="140px" src="https://i.ytimg.com/vi/ZKThahHbomE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZKThahHbomE">P0f Full Tutorial | #P0f</a><br/>Sep 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3hNeIv7JjqA"><img width="140px" src="https://i.ytimg.com/vi/3hNeIv7JjqA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3hNeIv7JjqA">Information Gathering Using Metasploit | #metasploit</a><br/>Sep 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ezkgkrc-mzE"><img width="140px" src="https://i.ytimg.com/vi/Ezkgkrc-mzE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ezkgkrc-mzE">Sherlock Full Tutorial | #sherlock</a><br/>Sep 22, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
