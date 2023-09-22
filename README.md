@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZKThahHbomE"><img width="140px" src="https://i.ytimg.com/vi/ZKThahHbomE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Kc3C8IY1r1A"><img width="140px" src="https://i.ytimg.com/vi/Kc3C8IY1r1A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Kc3C8IY1r1A">SMBMap Full Tutorial | #smbmap</a><br/>Sep 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZKThahHbomE"><img width="140px" src="https://i.ytimg.com/vi/ZKThahHbomE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZKThahHbomE">P0f Full Tutorial | #P0f</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3hNeIv7JjqA"><img width="140px" src="https://i.ytimg.com/vi/3hNeIv7JjqA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3hNeIv7JjqA">Information Gathering Using Metasploit | #metasploit</a><br/>Sep 22, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=Ezkgkrc-mzE">Sherlock Full Tutorial | #sherlock</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jl8blg4Z7tg"><img width="140px" src="https://i.ytimg.com/vi/jl8blg4Z7tg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jl8blg4Z7tg">Netcat Full Tutorial | #netcat</a><br/>Sep 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rn6UR5OLYz4"><img width="140px" src="https://i.ytimg.com/vi/rn6UR5OLYz4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rn6UR5OLYz4">Whonix | My Honest Opinion</a><br/>Sep 20, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
