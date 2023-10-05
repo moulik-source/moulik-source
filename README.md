@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=neQffD27qfQ"><img width="140px" src="https://i.ytimg.com/vi/neQffD27qfQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=K1yWj3ngXlc"><img width="140px" src="https://i.ytimg.com/vi/K1yWj3ngXlc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K1yWj3ngXlc">Hacking Ai facts | #shorts  #hacker #coding #sqli #cyberattack #computerscience #sqlmap #fact</a><br/>Oct 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=neQffD27qfQ"><img width="140px" src="https://i.ytimg.com/vi/neQffD27qfQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=neQffD27qfQ">AI in Cybersecurity | #shorts  #hacker #coding #cyberattack #computerscience #technology # #fact</a><br/>Oct 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9WYY7_9soKI"><img width="140px" src="https://i.ytimg.com/vi/9WYY7_9soKI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9WYY7_9soKI">Hacking and AI facts | #shorts  #hacker #coding #sqli #computerscience #technology #sqlmap #fact</a><br/>Oct 5, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=5fQ0I6tzV0w">Cybersecurity Risk | #shorts  #hacker #coding #sqli #cyberattack #computerscience #technology #fact</a><br/>Oct 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e826_ishNfY"><img width="140px" src="https://i.ytimg.com/vi/e826_ishNfY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e826_ishNfY">Cybersecurity Legislation | #shorts  #hacker #coding #sqli #cyberattack #technology #sqlmap #fact</a><br/>Oct 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Pmyqcj_9yYc"><img width="140px" src="https://i.ytimg.com/vi/Pmyqcj_9yYc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Pmyqcj_9yYc">Skipfish Full Tutorial | #skipfish</a><br/>Sep 23, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
