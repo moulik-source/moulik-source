@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Pmyqcj_9yYc"><img width="140px" src="https://i.ytimg.com/vi/Pmyqcj_9yYc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e826_ishNfY"><img width="140px" src="https://i.ytimg.com/vi/e826_ishNfY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e826_ishNfY">Cybersecurity Legislation | #shorts  #hacker #coding #sqli #cyberattack #technology #sqlmap #fact</a><br/>Oct 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Pmyqcj_9yYc"><img width="140px" src="https://i.ytimg.com/vi/Pmyqcj_9yYc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Pmyqcj_9yYc">Skipfish Full Tutorial | #skipfish</a><br/>Sep 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Rqn5EuhLZHk"><img width="140px" src="https://i.ytimg.com/vi/Rqn5EuhLZHk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Rqn5EuhLZHk">SQLMap Full Tutorial | #sqlmap</a><br/>Sep 23, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=HyXHq_HUFOY">Goofile Full Tutorial | #Goofile</a><br/>Sep 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g5wDqWiqSVk"><img width="140px" src="https://i.ytimg.com/vi/g5wDqWiqSVk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g5wDqWiqSVk">VPN |  #hacker #fact #computerhacking #computerscience #hackingattack #reverseengineering #tech</a><br/>Sep 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IVnb2kIdTkk"><img width="140px" src="https://i.ytimg.com/vi/IVnb2kIdTkk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IVnb2kIdTkk">Cybersecurity Education |  #hacker #fact #computerhacking #computerscience #hackingattack #tech</a><br/>Sep 22, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
