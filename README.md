@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jOYQ6m0AeLM"><img width="140px" src="https://i.ytimg.com/vi/jOYQ6m0AeLM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tb8BwhHZHhk"><img width="140px" src="https://i.ytimg.com/vi/tb8BwhHZHhk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tb8BwhHZHhk">AI Facts 🔥 |  #hacker #coding #sqli #cyberattack #computerscience #shorts #viral</a><br/>Oct 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jOYQ6m0AeLM"><img width="140px" src="https://i.ytimg.com/vi/jOYQ6m0AeLM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jOYQ6m0AeLM">Hacking Facts | #shorts #shortsvideo #shortsfeed #shortsviral #viral #hacker #hackerfreefire</a><br/>Oct 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=G8KZjIUSNiA"><img width="140px" src="https://i.ytimg.com/vi/G8KZjIUSNiA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G8KZjIUSNiA">Hacking Facts | #shorts #hacker  #cyberattack #computerscience #technology #sqlmap #fact  #tech</a><br/>Oct 8, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=ynaB0qle8HY">Secure Coding | #shorts  #coding #hacker #sqli #computerscience #technology #cyberwarfare #fact</a><br/>Oct 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PPzFC_-Ek-A"><img width="140px" src="https://i.ytimg.com/vi/PPzFC_-Ek-A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PPzFC_-Ek-A">Cybersecurity Regulations | #shorts  #hacker #coding #sqli #cyberattack #computerscience #fact</a><br/>Oct 7, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xgRt5CBVrqs"><img width="140px" src="https://i.ytimg.com/vi/xgRt5CBVrqs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xgRt5CBVrqs">Password Management |  #hacker #coding #cyberattack #computerscience #technology #cyberwarfare #fact</a><br/>Oct 6, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
