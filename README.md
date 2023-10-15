@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m-ti3sRAAQI"><img width="140px" src="https://i.ytimg.com/vi/m-ti3sRAAQI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UX2XhGUhPDA"><img width="140px" src="https://i.ytimg.com/vi/UX2XhGUhPDA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UX2XhGUhPDA">Installing WindowsXP In UTM | #windowsxp #utm</a><br/>Oct 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=m-ti3sRAAQI"><img width="140px" src="https://i.ytimg.com/vi/m-ti3sRAAQI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m-ti3sRAAQI">100 Most Popular Linux Commands | Watch It and Thank Me Later | #linux</a><br/>Oct 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dQdjpg839A8"><img width="140px" src="https://i.ytimg.com/vi/dQdjpg839A8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dQdjpg839A8">Hacking and AI Facts | #shortsfeed  #hacker #fact #sqli #computersecurity #computerscience #fidget</a><br/>Oct 13, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=VqmRoni_9fE">Hacking and AI Facts | #hacker #shortsfeed #sqli #shortsviral  #fact #computersecurity</a><br/>Oct 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aX3IjrfFzUs"><img width="140px" src="https://i.ytimg.com/vi/aX3IjrfFzUs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aX3IjrfFzUs">Hacking Facts |  #hacker #fact #shorts #shortsfeed  #computerscience #computersecurity #sqli #cyber</a><br/>Oct 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9JM8Z__UifI"><img width="140px" src="https://i.ytimg.com/vi/9JM8Z__UifI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9JM8Z__UifI">Hacking and AI Facts | #fact #hacker  #cyberattack #computerscience #sqlmap #cyberwarfare</a><br/>Oct 12, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
