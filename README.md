@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [Protected: Clicker HTB Full Walkthrough](https://techyrick.com/clicker-htb/)
+- [Analytics HTB Walkthrough | by Rick](https://techyrick.com/analytics-htb-walkthrough-by-rick/)
+- [Clicker HTB Full Walkthrough](https://techyrick.com/clicker-htb/)
 - [Fcrackzip: The Easy Way to Access Locked Files](https://techyrick.com/fcrackzip-full-tutorial/)
 - [SQL Injection Payloads Full Guide | Updated 2023](https://techyrick.com/sql-injection-payload-tutorial/)
 - [Laudanum Full Tutorial | Updated 2023](https://techyrick.com/laudanum-full-tutorial/)
-- [Reaver Wifi Hacking : The Ultimate Guide | Updated 2023](https://techyrick.com/reaver-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
