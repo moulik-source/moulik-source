@@ -45,7 +45,9 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SJuz0-Sv3rg"><img width="140px" src="https://i.ytimg.com/vi/SJuz0-Sv3rg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oHCphbtLJIo"><img width="140px" src="https://i.ytimg.com/vi/oHCphbtLJIo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oHCphbtLJIo">Installing Windows 11 on UTM | The Right Way | #windows11</a><br/>Oct 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SJuz0-Sv3rg"><img width="140px" src="https://i.ytimg.com/vi/SJuz0-Sv3rg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SJuz0-Sv3rg">Installing Ubuntu On UTM | #ubuntu</a><br/>Oct 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tnzvODhaZeA"><img width="140px" src="https://i.ytimg.com/vi/tnzvODhaZeA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tnzvODhaZeA">Installing Kali Linux in UTM | The Right Way | 2023 | #kalilinux</a><br/>Oct 16, 2023</td></tr></table>
@@ -53,7 +55,5 @@ https://app.hackthebox.com/profile/692115
 <td><a href="https://www.youtube.com/watch?v=UX2XhGUhPDA">Installing WindowsXP In UTM | #windowsxp #utm</a><br/>Oct 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=m-ti3sRAAQI"><img width="140px" src="https://i.ytimg.com/vi/m-ti3sRAAQI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m-ti3sRAAQI">100 Most Popular Linux Commands | Watch It and Thank Me Later | #linux</a><br/>Oct 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dQdjpg839A8"><img width="140px" src="https://i.ytimg.com/vi/dQdjpg839A8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dQdjpg839A8">Hacking and AI Facts | #shortsfeed  #hacker #fact #sqli #computersecurity #computerscience #fidget</a><br/>Oct 13, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
