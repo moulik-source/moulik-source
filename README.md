@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Installing Ubuntu On UTM | Apple M1/M2](https://techyrick.com/installing-ubuntu-on-utm-apple-m1-m2/)
 - [Install Kali Linux Virtual Machine on Apple M1/M2 with UTM](https://techyrick.com/kali-linux-in-utm-install/)
 - [Analytics HTB Walkthrough | by Rick](https://techyrick.com/analytics-htb-walkthrough-by-rick/)
 - [Clicker HTB Full Walkthrough](https://techyrick.com/clicker-htb/)
 - [Fcrackzip: The Easy Way to Access Locked Files](https://techyrick.com/fcrackzip-full-tutorial/)
-- [SQL Injection Payloads Full Guide | Updated 2023](https://techyrick.com/sql-injection-payload-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
