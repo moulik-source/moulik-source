@@ -45,15 +45,15 @@ https://app.hackthebox.com/profile/692115
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HWf3FEIOL44"><img width="140px" src="https://i.ytimg.com/vi/HWf3FEIOL44/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jAwkvevwYNw"><img width="140px" src="https://i.ytimg.com/vi/jAwkvevwYNw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jAwkvevwYNw">E Waste Facts | #shorts  #fact #computerhacking #computersecurity #computerscience #window #hacker</a><br/>Oct 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2Wu0yfTBXCA"><img width="140px" src="https://i.ytimg.com/vi/2Wu0yfTBXCA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2Wu0yfTBXCA">Smart Phone Facts | #shorts  #fact #computerhacking #computersecurity #computerscience #window</a><br/>Oct 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rR2d-AnTeK4"><img width="140px" src="https://i.ytimg.com/vi/rR2d-AnTeK4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rR2d-AnTeK4">Whonix on UTM | #whonix #utm</a><br/>Oct 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HWf3FEIOL44"><img width="140px" src="https://i.ytimg.com/vi/HWf3FEIOL44/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HWf3FEIOL44">Internet Speed Fact |  #fact #computerhacking #computersecurity #hacker #shorts #shortsviral</a><br/>Oct 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xoYaY0AR7eo"><img width="140px" src="https://i.ytimg.com/vi/xoYaY0AR7eo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xoYaY0AR7eo">Metasploitable 2 On UTM | #metasploitable2 #utm</a><br/>Oct 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mQCYB9Yy6dg"><img width="140px" src="https://i.ytimg.com/vi/mQCYB9Yy6dg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mQCYB9Yy6dg">Ai Facts |  #fact #hackingtechniques #computersecurity #computerscience #window #hacking #shorts</a><br/>Oct 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_giQhc8AH-4"><img width="140px" src="https://i.ytimg.com/vi/_giQhc8AH-4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_giQhc8AH-4">Installing Vulnhub Box On UTM | The Right Way | #vulnhub</a><br/>Oct 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cPXeSC--_PI"><img width="140px" src="https://i.ytimg.com/vi/cPXeSC--_PI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cPXeSC--_PI">Social Media Facts | #shortsfeed #shortsviral #instagram #hacker  #fact #hackingtechniques  #hacking</a><br/>Oct 18, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
