@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [Protected: Drive HTB Writeup | Hackthebox](https://techyrick.com/drive-htb/)
 - [Installing Windows 11 On UTM](https://techyrick.com/installing-windows-11-on-utm/)
 - [Installing Ubuntu On UTM | Apple M1/M2](https://techyrick.com/installing-ubuntu-on-utm-apple-m1-m2/)
 - [Install Kali Linux Virtual Machine on Apple M1/M2 with UTM](https://techyrick.com/kali-linux-in-utm-install/)
 - [Analytics HTB Walkthrough | by Rick](https://techyrick.com/analytics-htb-walkthrough-by-rick/)
+- [Clicker HTB Full Walkthrough](https://techyrick.com/clicker-htb/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
