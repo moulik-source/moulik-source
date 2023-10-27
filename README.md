@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Python Variables and Data Types](https://techyrick.com/python-variables-and-data-types/)
 - [Protected: Manager HTB Full Writeup](https://techyrick.com/manager-htb-full-writeup/)
 - [What is Python Interpreter | Part 1](https://techyrick.com/what-is-python-interpreter/)
 - [Protected: Drive HTB Writeup | Hackthebox](https://techyrick.com/drive-htb-writeup-hackthebox/)
 - [Installing Windows 11 On UTM](https://techyrick.com/installing-windows-11-on-utm/)
-- [Installing Ubuntu On UTM | Apple M1/M2](https://techyrick.com/installing-ubuntu-on-utm-apple-m1-m2/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
