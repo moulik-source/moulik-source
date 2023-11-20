@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Hospital HTB Writeup | Hackthebox](https://techyrick.com/hospital-htb/)
 - [Codify HTB Full Writeup](https://techyrick.com/codify-htb-writeup/)
 - [A Comprehensive Guide to Python Variables and Data Types](https://techyrick.com/python-variables-and-data-types/)
-- [Protected: Manager HTB Full Writeup](https://techyrick.com/manager-htb-full-writeup/)
+- [Manager HTB Full Writeup](https://techyrick.com/manager-htb-full-writeup/)
 - [What is Python Interpreter | Part 1](https://techyrick.com/what-is-python-interpreter/)
-- [Protected: Drive HTB Writeup | Hackthebox](https://techyrick.com/drive-htb-writeup-hackthebox/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
