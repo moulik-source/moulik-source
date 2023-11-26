@@ -46,7 +46,7 @@ https://app.hackthebox.com/profile/692115
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCVHmOOAGNcLK5k0i7G1gTrQ)
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mADzwOkX1ig"><img width="140px" src="https://i.ytimg.com/vi/mADzwOkX1ig/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mADzwOkX1ig">Numbers Python | #python</a><br/>Nov 11, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=mADzwOkX1ig">Numbers Python 101 | #python</a><br/>Nov 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yE42BobZ42c"><img width="140px" src="https://i.ytimg.com/vi/yE42BobZ42c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yE42BobZ42c">Variables and Data Types | Python 101 Hackers | #python</a><br/>Oct 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_rXpDQcgIl8"><img width="140px" src="https://i.ytimg.com/vi/_rXpDQcgIl8/mqdefault.jpg"></a></td>
