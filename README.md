@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [picoCTF – msfroggenerator2](https://techyrick.com/picoctf-msfroggenerator2/)
 - [picoCTF – WebNet0picoCTF](https://techyrick.com/webnet0picoctf-picoctf/)
 - [PicoCTF — Mod 26](https://techyrick.com/mod-26-picoctf/)
 - [PicoCTF — Obedient Cat](https://techyrick.com/obedient-cat-pico-ctf/)
 - [Radare 2 Full Tutorial | Reverse Engineering](https://techyrick.com/radare-2-full-tutorial-reverse-engineering/)
-- [Reverse Shell Cheat Sheet Full Tutorial | Noob to Pro](https://techyrick.com/reverse-shell-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
