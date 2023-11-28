@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [picoCTF – WebNet0picoCTF](https://techyrick.com/webnet0picoctf-picoctf/)
+- [PicoCTF — Mod 26](https://techyrick.com/mod-26-picoctf/)
 - [PicoCTF — Obedient Cat](https://techyrick.com/obedient-cat-pico-ctf/)
 - [Radare 2 Full Tutorial | Reverse Engineering](https://techyrick.com/radare-2-full-tutorial-reverse-engineering/)
 - [Reverse Shell Cheat Sheet Full Tutorial | Noob to Pro](https://techyrick.com/reverse-shell-cheat-sheet/)
-- [Devvortex HTB Writeup | HacktheBox](https://techyrick.com/devvortex-htb/)
-- [Hospital HTB Writeup | Hackthebox](https://techyrick.com/hospital-htb/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
