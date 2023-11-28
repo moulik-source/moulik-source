@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Shell Cheat Sheet Full Tutorial | Noob to Pro](https://techyrick.com/reverse-shell-cheat-sheet/)
 - [Devvortex HTB Writeup | HacktheBox](https://techyrick.com/devvortex-htb/)
 - [Hospital HTB Writeup | Hackthebox](https://techyrick.com/hospital-htb/)
 - [Codify HTB Full Writeup](https://techyrick.com/codify-htb-writeup/)
 - [A Comprehensive Guide to Python Variables and Data Types](https://techyrick.com/python-variables-and-data-types/)
-- [Manager HTB Full Writeup](https://techyrick.com/manager-htb-full-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
