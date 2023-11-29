@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [picoCTF – Wave a Flag](https://techyrick.com/wave-a-flag-picoctf/)
 - [picoCTF – Python Wrangling](https://techyrick.com/python-wrangling-picoctf/)
 - [picoCTF – msfroggenerator2](https://techyrick.com/picoctf-msfroggenerator2/)
 - [picoCTF – WebNet0picoCTF](https://techyrick.com/webnet0picoctf-picoctf/)
 - [PicoCTF — Mod 26](https://techyrick.com/mod-26-picoctf/)
-- [PicoCTF — Obedient Cat](https://techyrick.com/obedient-cat-pico-ctf/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
