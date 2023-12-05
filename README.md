@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Stonks – picoCTF](https://techyrick.com/stoks-picoctf/)
 - [picoCTF – Nice Netcat](https://techyrick.com/picoctf-nice-netcat/)
 - [picoCTF – information](https://techyrick.com/information-picoctf/)
 - [Natas – OvertheWire Writeup [OTW]](https://techyrick.com/natas-overthewire-writeup-otw/)
 - [picoCTF – Wave a Flag](https://techyrick.com/wave-a-flag-picoctf/)
-- [picoCTF – Python Wrangling](https://techyrick.com/python-wrangling-picoctf/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
