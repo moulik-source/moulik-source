@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [GoPhish Full Tutorial | [Updated 2023]](https://techyrick.com/gophish-full-tutorial/)
 - [Surveillance HTB Write-up | HackTheBox](https://techyrick.com/surveillance-htb/)
 - [Stonks – picoCTF](https://techyrick.com/stoks-picoctf/)
 - [picoCTF – Nice Netcat](https://techyrick.com/picoctf-nice-netcat/)
 - [picoCTF – information](https://techyrick.com/information-picoctf/)
-- [Natas – OvertheWire Writeup [OTW]](https://techyrick.com/natas-overthewire-writeup-otw/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
