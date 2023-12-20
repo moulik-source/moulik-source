@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Spot Your First Bug: Quick Tips! | by Techyrick](https://techyrick.com/my-first-bug-bounty-tips-and-tricks/)
 - [GoPhish Full Tutorial | [Updated 2023]](https://techyrick.com/gophish-full-tutorial/)
 - [Surveillance HTB Write-up | HackTheBox](https://techyrick.com/surveillance-htb/)
 - [Stonks – picoCTF](https://techyrick.com/stoks-picoctf/)
 - [picoCTF – Nice Netcat](https://techyrick.com/picoctf-nice-netcat/)
-- [picoCTF – information](https://techyrick.com/information-picoctf/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
