@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Monitored HTB Writeup | HacktheBox](https://techyrick.com/monitored-htb/)
 - [Bizness HacktheBox Writeup | HTB](https://techyrick.com/bizness-hackthebox-writeup/)
 - [BASIC PENTESTING: 1 VulnHub Write up](https://techyrick.com/basic-pentesting-1-vulnhub/)
 - [DINA: 1.0.1 VulnHub Write up | [Step-by-Step]](https://techyrick.com/dina-1-0-1-vulnhub-write-up-step-by-step/)
 - [Spot Your First Bug: Quick Tips! | by Techyrick](https://techyrick.com/my-first-bug-bounty-tips-and-tricks/)
-- [GoPhish Full Tutorial | [Updated 2024]](https://techyrick.com/gophish-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
