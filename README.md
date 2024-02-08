@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Ethical Hacking Threats](https://techyrick.com/introduction-to-ethical-hacking-threats/)
 - [Hashcat Full Tutorial | Updated 2024](https://techyrick.com/hashcat-full-tutorial/)
 - [Evil-WinRM Full Tutorial | Updated 2024](https://techyrick.com/evil-winrm-full-tutorial/)
 - [POV HacktheBox Writeup | HTB](https://techyrick.com/pov-hackthebox-writeup/)
 - [Monitored HTB Writeup | HacktheBox](https://techyrick.com/monitored-htb/)
-- [Bizness HacktheBox Writeup | HTB](https://techyrick.com/bizness-hackthebox-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
