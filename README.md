@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [SkyFall Insane HTB WriteUp | HacktheBox](https://techyrick.com/skyfall-insane-htb-writeup-hackthebox/)
 - [Introduction to Ethical Hacking Concepts](https://techyrick.com/introduction-to-ethical-hacking-concepts/)
 - [Introduction to Ethical Hacking Threats](https://techyrick.com/introduction-to-ethical-hacking-threats/)
 - [Hashcat Full Tutorial | Updated 2024](https://techyrick.com/hashcat-full-tutorial/)
 - [Evil-WinRM Full Tutorial | Updated 2024](https://techyrick.com/evil-winrm-full-tutorial/)
-- [POV HacktheBox Writeup | HTB](https://techyrick.com/pov-hackthebox-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
