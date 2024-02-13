@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Crafty HTB Writeup | HacktheBox](https://techyrick.com/crafty-htb-writeup/)
 - [How to Hack CCTV | Full Tutorial](https://techyrick.com/how-to-hack-cctv/)
 - [SkyFall Insane HTB WriteUp | HacktheBox](https://techyrick.com/skyfall-insane-htb-writeup-hackthebox/)
 - [Introduction to Ethical Hacking Concepts](https://techyrick.com/introduction-to-ethical-hacking-concepts/)
 - [Introduction to Ethical Hacking Threats](https://techyrick.com/introduction-to-ethical-hacking-threats/)
-- [Hashcat Full Tutorial | Updated 2024](https://techyrick.com/hashcat-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
