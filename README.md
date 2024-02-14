@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Ethical Hacking Concepts Cont.](https://techyrick.com/introduction-to-ethical-hacking-concepts-cont/)
 - [Keylogger in Python | A Simple Code](https://techyrick.com/keylogger-in-python/)
 - [Hacking Windows Password With LaZagne](https://techyrick.com/lazagne-password-cracking/)
 - [Crafty HTB Writeup | HacktheBox](https://techyrick.com/crafty-htb-writeup/)
 - [How to Hack CCTV | Full Tutorial](https://techyrick.com/how-to-hack-cctv/)
-- [SkyFall Insane HTB WriteUp | HacktheBox](https://techyrick.com/skyfall-insane-htb-writeup-hackthebox/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
