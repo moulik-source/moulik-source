@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [How to Track Realtime Location of ANY Telegram User](https://techyrick.com/tracking-telegram-user/)
 - [Introduction to Ethical Hacking Concepts Cont.](https://techyrick.com/introduction-to-ethical-hacking-concepts-cont/)
 - [Keylogger in Python | A Simple Code](https://techyrick.com/keylogger-in-python/)
 - [Hacking Windows Password With LaZagne](https://techyrick.com/lazagne-password-cracking/)
 - [Crafty HTB Writeup | HacktheBox](https://techyrick.com/crafty-htb-writeup/)
-- [How to Hack CCTV | Full Tutorial](https://techyrick.com/how-to-hack-cctv/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
