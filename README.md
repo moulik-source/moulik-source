@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [4 Ways to Generate Reverse Shell Faster in [2024]](https://techyrick.com/how-to-generate-reverse-shell-code/)
 - [Evilginx3 Full Tutorial | Updated [2024]](https://techyrick.com/evilginx3-full-guide/)
 - [Steganography, A Basic Beginner Guide Updated [2024]](https://techyrick.com/steganography-basic-guide/)
 - [Best Recon Methodology By An Expert Hacker](https://techyrick.com/best-recon-methodology/)
 - [Ligolo-ng Pivoting Full Tutorial](https://techyrick.com/ligolo-ng-pivoting-full-tutorial/)
-- [How to Track Realtime Location of ANY Telegram User](https://techyrick.com/tracking-telegram-user/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
