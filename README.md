@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Kerbrute Full Tutorial | Updated [2024]](https://techyrick.com/kerbrute-full-tutorial/)
 - [How to Track Anyone’s IP using Transparent Images?](https://techyrick.com/track-anyones-ip/)
 - [BeEF: Browser Exploitation Framework Intro..](https://techyrick.com/beef-browser-exploitation-framework-intro/)
 - [Introduction to Ethical Hacking Security Controls Part-1](https://techyrick.com/introduction-to-ethical-hacking-security-controls-part-1/)
 - [Death Note VulnHub Walkthrough](https://techyrick.com/death-note-vulnhub/)
-- [4 Ways to Generate Reverse Shell Faster in [2024]](https://techyrick.com/how-to-generate-reverse-shell-code/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
