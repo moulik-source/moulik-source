@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Ethical Hacking Browser Extensions](https://techyrick.com/top-10-ethical-hacking-browser-extensions/)
 - [ANTIQUE HTB Writeup | HacktheBox](https://techyrick.com/antique-htb-writeup-hackthebox/)
 - [Blackfield HTB Writeup | HacktheBox](https://techyrick.com/blackfield-htb-writeup-hackthebox/)
 - [Wifite Step By Step Guide to Pro Hacker [2024]](https://techyrick.com/wifite-step-by-step-guide/)
 - [Office HTB Writeup | HacktheBox](https://techyrick.com/office-htb-writeup-hackthebox/)
-- [Kerbrute Full Tutorial | Updated [2024]](https://techyrick.com/kerbrute-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
