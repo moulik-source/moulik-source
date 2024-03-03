@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Cybersecurity Companies You Need to Know About [2024]](https://techyrick.com/top-10-cybersecurity-companies/)
 - [JAB HTB Writeup | HacktheBox](https://techyrick.com/jab-htb-writeup-hackthebox/)
 - [Late HTB Writeup | HacktheBox](https://techyrick.com/late-htb-writeup-hackthebox/)
 - [Nunchucks HTB Writeup | HacktheBox](https://techyrick.com/nunchucks-htb-writeup/)
 - [Top 10 Ethical Hacking Browser Extensions](https://techyrick.com/top-10-ethical-hacking-browser-extensions/)
-- [ANTIQUE HTB Writeup | HacktheBox](https://techyrick.com/antique-htb-writeup-hackthebox/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
