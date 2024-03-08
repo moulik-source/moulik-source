@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Windows PrivEsc with SeBackupPrivilege](https://techyrick.com/sebackupprivilege-windows-privesc/)
 - [Windows Privilege Escalation – AlwaysInstallElevated Policy](https://techyrick.com/alwaysinstallelevated-windows-privilege-escalation/)
 - [Escalation of Windows Privilege: Kernel Exploit.](https://techyrick.com/linux-kernel-exploit/)
 - [Pandora HTB Writeup | HacktheBox](https://techyrick.com/pandora-htb-writeup-hackthebox/)
 - [Paper HTB Writeup | HacktheBox](https://techyrick.com/paper-htb-writeup-hackthebox/)
-- [GoodGames HTB Writeup | HacktheBox](https://techyrick.com/goodgames-htb-writeup-hackthebox/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
