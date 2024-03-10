@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [CrackMapExec in Action: Enumerating Windows Networks &lpar;Part 2&rpar;](https://techyrick.com/crackmapexec-part-2/)
 - [Crackmapexec Full Tutorial part 1 [Updated 2024]](https://techyrick.com/crackmapexec/)
 - [Perfection HTB Writeup | HacktheBox](https://techyrick.com/perfection-htb/)
 - [Windows Privilege Escalation with DNSAdmins Group](https://techyrick.com/dnsadmins-windows-privilege-escalation/)
 - [Windows PrivEsc with SeBackupPrivilege](https://techyrick.com/sebackupprivilege-windows-privesc/)
-- [Windows Privilege Escalation – AlwaysInstallElevated Policy](https://techyrick.com/alwaysinstallelevated-windows-privilege-escalation/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
