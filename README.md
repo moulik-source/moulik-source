@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [FormulaX HTB Writeup | HacktheBox](https://techyrick.com/formulax-htb-writeup-hackthebox/)
 - [GET aHEAD Pico CTF Writeup](https://techyrick.com/get-ahead/)
 - [SeImpersonatePrivilege – Windows Privilege Escalation](https://techyrick.com/seimpersonateprivilege-windows-privilege-escalation/)
 - [CrackMapExec in Action: Enumerating Windows Networks &lpar;Part 2&rpar;](https://techyrick.com/crackmapexec-part-2/)
 - [Crackmapexec Full Tutorial part 1 [Updated 2024]](https://techyrick.com/crackmapexec/)
-- [Perfection HTB Writeup | HacktheBox](https://techyrick.com/perfection-htb/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
