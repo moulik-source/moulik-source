@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Runner HTB Writeup  HackTheBox](https://techyrick.com/runner-htb-writeup-hackthebox/)
 - [Usage HTB Writeup | HacktheBox](https://techyrick.com/usage-htb-writeup-hackthebox/)
 - [Headless HTB Writeup | HackTheBox](https://techyrick.com/headless-htb/)
 - [Autorun Startup Registry Keys – Windows Privilege Escalation](https://techyrick.com/autorun-startup-registry-keys/)
 - [HiveNightmare vulnerability Privilege Escalation on Windows](https://techyrick.com/hivenightmare/)
-- [GET aHEAD Pico CTF Writeup](https://techyrick.com/get-ahead/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
