@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [AppLocker Bypass | Windows Privilege Escalation](https://techyrick.com/applocker-bypass-windows-privilege-escalation/)
 - [Driver HTB Writeup | HacktheBox](https://techyrick.com/driver-htb-writeup-hackthebox/)
 - [Runner HTB Writeup  HackTheBox](https://techyrick.com/runner-htb-writeup-hackthebox/)
 - [Usage HTB Writeup | HacktheBox](https://techyrick.com/usage-htb-writeup-hackthebox/)
 - [Headless HTB Writeup | HackTheBox](https://techyrick.com/headless-htb/)
-- [Autorun Startup Registry Keys – Windows Privilege Escalation](https://techyrick.com/autorun-startup-registry-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
