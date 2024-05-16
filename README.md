@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Pentest VOIP](https://techyrick.com/pentest-voip/)
 - [Pentesting SAP](https://techyrick.com/pentesting-sap/)
 - [SolarLab HTB Writeup | HacktheBox](https://techyrick.com/solarlab-htb-writeup-hackthebox/)
 - [Return HTB Writeup | HacktheBox](https://techyrick.com/return-htb-writeup-hackthebox/)
 - [Pentesting Java Debug Wire Protocol | JDWP](https://techyrick.com/pentesting-java-debug-wire-protocol-jdwp/)
-- [AppLocker Bypass | Windows Privilege Escalation](https://techyrick.com/applocker-bypass-windows-privilege-escalation/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
