@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Pentesting FTP](https://techyrick.com/pentesting-ftp/)
 - [Pentesting Echo | Port 7](https://techyrick.com/pentesting-echo/)
 - [Pentesting Remote GdbServer](https://techyrick.com/pentesting-remote-gdbserver/)
 - [Pentest VOIP](https://techyrick.com/pentest-voip/)
 - [Pentesting SAP](https://techyrick.com/pentesting-sap/)
-- [SolarLab HTB Writeup | HacktheBox](https://techyrick.com/solarlab-htb-writeup-hackthebox/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
