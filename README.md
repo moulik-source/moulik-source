@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [WSL | Windows Privilege Escalation](https://techyrick.com/wsl-windows-privilege-escalation/)
 - [Pentesting SSH](https://techyrick.com/pentesting-ssh/)
 - [Pentesting FTP](https://techyrick.com/pentesting-ftp/)
 - [Pentesting Echo | Port 7](https://techyrick.com/pentesting-echo/)
 - [Pentesting Remote GdbServer](https://techyrick.com/pentesting-remote-gdbserver/)
-- [Pentest VOIP](https://techyrick.com/pentest-voip/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
