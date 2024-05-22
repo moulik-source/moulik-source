@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Weak Registry Permissions | Windows Privilege Escalation](https://techyrick.com/weak-registry-permissions-windows-privilege-escalation/)
 - [Weak Service File Permissions | Windows Privilege Escalation](https://techyrick.com/weak-service-file-permissions/)
 - [Weak Service Permission | Windows Privilege Escalation](https://techyrick.com/weak-service-permission-windows-privilege-escalation/)
 - [WSL | Windows Privilege Escalation](https://techyrick.com/wsl-windows-privilege-escalation/)
 - [Pentesting SSH](https://techyrick.com/pentesting-ssh/)
-- [Pentesting FTP](https://techyrick.com/pentesting-ftp/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
