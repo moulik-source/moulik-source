@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Localhost vs. 127.0.0.1: Understanding the Basics](https://techyrick.com/localhost-vs-127-0-0-1/)
 - [Pentesting DNS](https://techyrick.com/pentesting-dns/)
 - [Pentesting SMTP](https://techyrick.com/pentesting-smtp/)
 - [Pentesting Telnet](https://techyrick.com/pentesting-telnet/)
 - [Weak Registry Permissions | Windows Privilege Escalation](https://techyrick.com/weak-registry-permissions-windows-privilege-escalation/)
-- [Weak Service File Permissions | Windows Privilege Escalation](https://techyrick.com/weak-service-file-permissions/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
