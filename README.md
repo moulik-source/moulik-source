@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Hacking Vending Machines | Ethical Exploration of IoT Vulnerabilities](https://techyrick.com/hacking-vending-machines/)
 - [RustScan Full Tutorial | Updated 2024](https://techyrick.com/rustscan-full-tutorial/)
 - [Feroxbuster Full Tutorial | Noob to Pro](https://techyrick.com/feroxbuster-full-tutorial/)
 - [Evilcups Writeup | HTB](https://techyrick.com/evilcups-writeup-htb/)
 - [Reel HTB Walkthrough | HacktheBox](https://techyrick.com/reel-htb-writeup/)
-- [Localhost vs. 127.0.0.1: Understanding the Basics](https://techyrick.com/localhost-vs-127-0-0-1/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
