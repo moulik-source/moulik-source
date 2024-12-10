@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Deep-HLR: Advanced Phone Number Intelligence for Cybersecurity and OSINT](https://techyrick.com/deep-hlr-advanced-phone-number-intelligence-for-cybersecurity-and-osint/)
 - [Hacking Vending Machines | Ethical Exploration of IoT Vulnerabilities](https://techyrick.com/hacking-vending-machines/)
 - [RustScan Full Tutorial | Updated 2024](https://techyrick.com/rustscan-full-tutorial/)
 - [Feroxbuster Full Tutorial | Noob to Pro](https://techyrick.com/feroxbuster-full-tutorial/)
 - [Evilcups Writeup | HTB](https://techyrick.com/evilcups-writeup-htb/)
-- [Reel HTB Walkthrough | HacktheBox](https://techyrick.com/reel-htb-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
