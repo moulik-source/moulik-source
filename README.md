@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Scan Surprise | PicoCTF 2024](https://techyrick.com/scan-surprise-picoctf/)
 - [Verify | Pico CTF 2024](https://techyrick.com/verify-picoctf-2024/)
 - [Deep-HLR: Advanced Phone Number Intelligence for Cybersecurity and OSINT](https://techyrick.com/deep-hlr-advanced-phone-number-intelligence-for-cybersecurity-and-osint/)
 - [Hacking Vending Machines | Ethical Exploration of IoT Vulnerabilities](https://techyrick.com/hacking-vending-machines/)
 - [RustScan Full Tutorial | Updated 2024](https://techyrick.com/rustscan-full-tutorial/)
-- [Feroxbuster Full Tutorial | Noob to Pro](https://techyrick.com/feroxbuster-full-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
