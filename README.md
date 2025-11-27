@@ -27,11 +27,11 @@ https://app.hackthebox.com/profile/692115
 
 # Blog post
 <!-- BLOG-POST-LIST:START -->
-- [Stray Dogs, Silent Sufferers, and the Supreme Court: What Really Happened?](https://techyrick.com/stray-dogs-silent-sufferers-and-the-supreme-court-what-really-happened/)
-- [Scan Surprise | PicoCTF 2024](https://techyrick.com/scan-surprise-picoctf/)
-- [Verify | Pico CTF 2024](https://techyrick.com/verify-picoctf-2024/)
-- [Deep-HLR: Advanced Phone Number Intelligence for Cybersecurity and OSINT](https://techyrick.com/deep-hlr-advanced-phone-number-intelligence-for-cybersecurity-and-osint/)
-- [Hacking Vending Machines | Ethical Exploration of IoT Vulnerabilities](https://techyrick.com/hacking-vending-machines/)
+- [HiveNightmare vulnerability Privilege Escalation on Windows](https://techyrick.com/hivenightmare/)
+- [WifineticTwo HTB Writeup | HacktheBox](https://techyrick.com/wifinetictwo-htb-writeup-hackthebox/)
+- [FormulaX HTB Writeup | HacktheBox](https://techyrick.com/formulax-htb-writeup-hackthebox/)
+- [GET aHEAD Pico CTF Writeup](https://techyrick.com/get-ahead/)
+- [SeImpersonatePrivilege – Windows Privilege Escalation](https://techyrick.com/seimpersonateprivilege-windows-privilege-escalation/)
 <!-- BLOG-POST-LIST:END -->
 
 # Recent repository 
